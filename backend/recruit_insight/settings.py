@@ -38,7 +38,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    "recommendations",
+    # "recommendations",
     "financial_statement",
     "job_postings",
     "accounts",
