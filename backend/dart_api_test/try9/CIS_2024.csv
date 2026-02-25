@@ -1,0 +1,47 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,thstrm_add_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익,-,제 44 기,14940303815,,제 43 기,12521004402,제 42 기,11438460937,6,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 44 기,3309030664,,제 43 기,1758324149,제 42 기,2348930359,7,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 44 기,640681399,,제 43 기,531415931,제 42 기,745383065,8,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 44 기,10512827908,,제 43 기,9253598968,제 42 기,8601673002,9,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 44 기,12930544877,,제 43 기,11253291882,제 42 기,10174964821,10,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"포괄손익, 비지배지분",-,제 44 기,0,,제 43 기,0,제 42 기,0,12,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 44 기,12930544877,,제 43 기,11253291882,제 42 기,10174964821,13,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 44 기,54780968557,,제 43 기,56394417240,제 42 기,66055706580,14,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당순손익,-,제 44 기,945,,제 43 기,758,제 42 기,628,16,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 44 기,36818840,,제 43 기,54956682,제 42 기,807077248,17,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 44 기,1118064223,,제 43 기,1336467457,제 42 기,241972715,18,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 44 기,25453131723,,제 43 기,21774603370,제 42 기,20040133939,19,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 44 기,3580058533,,제 43 기,2922863999,제 42 기,2443774084,20,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 44 기,-2179295053,,제 43 기,-853267514,제 42 기,141835207,21,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되는 세후기타포괄손익,-,제 44 기,145352908,,제 43 기,-3201708,제 42 기,-29751301,22,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,-,제 44 기,145352908,,제 43 기,-3201708,제 42 기,-29751301,23,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소,-,제 44 기,-2324647961,,제 43 기,-850065806,제 42 기,171586508,24,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,-,제 44 기,-2324647961,,제 43 기,-850065806,제 42 기,171586508,25,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 44 기,15109839930,,제 43 기,12106559396,제 42 기,10033129614,26,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 44 기,0,,제 43 기,0,제 42 기,0,28,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 44 기,15109839930,,제 43 기,12106559396,제 42 기,10033129614,29,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 44 기,18689898463,,제 43 기,15029423395,제 42 기,12476903698,30,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 44 기,80234100280,,제 43 기,78169020610,제 42 기,86095840519,31,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익,-,제 44 기,14940303815,,제 43 기,12521004402,제 42 기,11438460937,6,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_OtherGains,기타수익,-,제 44 기,3309030664,,제 43 기,1758324149,제 42 기,2348930359,7,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_OtherLosses,기타비용,-,제 44 기,640681399,,제 43 기,531415931,제 42 기,745383065,8,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비,-,제 44 기,10512827908,,제 43 기,9253598968,제 42 기,8601673002,9,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 44 기,12930544877,,제 43 기,11253291882,제 42 기,10174964821,10,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"포괄손익, 비지배지분",-,제 44 기,0,,제 43 기,0,제 42 기,0,12,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 44 기,12930544877,,제 43 기,11253291882,제 42 기,10174964821,13,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 44 기,54780968557,,제 43 기,56394417240,제 42 기,66055706580,14,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당순손익,-,제 44 기,945,,제 43 기,758,제 42 기,628,16,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융비용,-,제 44 기,36818840,,제 43 기,54956682,제 42 기,807077248,17,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 44 기,1118064223,,제 43 기,1336467457,제 42 기,241972715,18,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 44 기,25453131723,,제 43 기,21774603370,제 42 기,20040133939,19,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 44 기,3580058533,,제 43 기,2922863999,제 42 기,2443774084,20,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 44 기,-2179295053,,제 43 기,-853267514,제 42 기,141835207,21,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되는 세후기타포괄손익,-,제 44 기,145352908,,제 43 기,-3201708,제 42 기,-29751301,22,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이,-,제 44 기,145352908,,제 43 기,-3201708,제 42 기,-29751301,23,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는 세후기타포괄손익의 구성요소,-,제 44 기,-2324647961,,제 43 기,-850065806,제 42 기,171586508,24,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의재측정요소,-,제 44 기,-2324647961,,제 43 기,-850065806,제 42 기,171586508,25,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 44 기,15109839930,,제 43 기,12106559396,제 42 기,10033129614,26,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,비지배지분에 귀속되는 당기순이익(손실),-,제 44 기,0,,제 43 기,0,제 42 기,0,28,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 44 기,15109839930,,제 43 기,12106559396,제 42 기,10033129614,29,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 44 기,18689898463,,제 43 기,15029423395,제 42 기,12476903698,30,KRW,HRS
+20250318000433,11011,2024,00230911,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 44 기,80234100280,,제 43 기,78169020610,제 42 기,86095840519,31,KRW,HRS

@@ -1,0 +1,159 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 12 기,7957128435,제 11 기,10791430583,제 10 기,4255532626,2,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 12 기,20256123712,제 11 기,7957128435,제 10 기,10791430583,3,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 12 기,1058838194,제 11 기,5381921690,제 10 기,-2915108956,8,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 지급,-,제 12 기,56161806,제 11 기,58078310,제 10 기,69045601,9,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 12 기,1500000000,제 11 기,1700000000,제 10 기,-600000000,10,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 12 기,,제 11 기,4000000000,제 10 기,500000000,11,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 감소,-,제 12 기,,제 11 기,,제 10 기,1880000000,12,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,-표준계정코드 미사용-,유동성장기부채의 상환,-,제 12 기,385000000,제 11 기,260000000,제 10 기,907760000,13,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsFinancingActivities,국고보조금의 증가,-,제 12 기,0,제 11 기,,제 10 기,41696645,14,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 12 기,4590272197,제 11 기,-7923690487,제 10 기,4232546943,15,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermOtherReceivables,장기미수금의 회수,-,제 12 기,1998855117,제 11 기,,제 10 기,,16,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 12 기,18090000,제 11 기,10704904,제 10 기,,17,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_DecreaseInLoans,대여금의 회수,-,제 12 기,1855000000,제 11 기,300000000,제 10 기,15000000,18,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 12 기,381704230,제 11 기,24530990,제 10 기,9504000,19,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 12 기,,제 11 기,4400000000,제 10 기,,20,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentFairValueFinancialAsset,당기손익인식금융자산의 처분,-,제 12 기,,제 11 기,,제 10 기,1001070418,21,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 처분,-,제 12 기,19900000000,제 11 기,1500000000,제 10 기,4210189481,22,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 취득,-,제 12 기,3600000,제 11 기,3600000,제 10 기,3600000,23,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 취득,-,제 12 기,16400000000,제 11 기,2000000000,제 10 기,,24,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,국고보조금의 증가,-,제 12 기,20000000,제 11 기,164538900,제 10 기,195020202,25,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 12 기,,제 11 기,,제 10 기,1045455,26,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 12 기,,제 11 기,,제 10 기,29200000,27,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,"종속, 관계기업의 취득",-,제 12 기,1847857000,제 11 기,,제 10 기,,28,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 12 기,568511690,제 11 기,3470803301,제 10 기,1147474613,29,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 12 기,6657170945,제 11 기,-256336800,제 10 기,5404870481,30,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_NetCashflowsFromUsedInOperations,영업에서 창출된 현금,-,제 12 기,6863763002,제 11 기,-185215846,제 10 기,5455789413,31,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 12 기,15533653782,제 11 기,-306888161,제 10 기,-10836697465,32,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 12 기,671367121,제 11 기,-6452660033,제 10 기,3173591738,33,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,-표준계정코드 미사용-,조정,-,제 12 기,-9341257901,제 11 기,6574332348,제 10 기,13118895140,34,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 12 기,81504630,제 11 기,14554410,제 10 기,19958490,35,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 12 기,780168213,제 11 기,605208323,제 10 기,368317552,36,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수입,-,제 12 기,655080786,제 11 기,548641779,제 10 기,337357110,37,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 12 기,-7286059,제 11 기,-36196551,제 10 기,-186410511,38,KRW,나노
+20250320000703,11011,2024,00994994,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 증가(감소),-,제 12 기,12306281336,제 11 기,-2798105597,제 10 기,6722308468,39,KRW,나노
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 50 기,211384332,제 49 기,912131344,제 48 기,1122456617,2,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 50 기,365493542,제 49 기,211384332,제 48 기,912131344,3,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 50 기,-9845681937,제 49 기,-11700894086,제 48 기,-9998651520,8,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 50 기,659736824,제 49 기,660490894,제 48 기,646868657,9,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,임대보증금(유동)의 입금,-,제 50 기,0,제 49 기,75000000,제 48 기,0,10,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,매도청구권행사,-,제 50 기,0,제 49 기,-872828398,제 48 기,0,11,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,임대보증금의 반환,-,제 50 기,0,제 49 기,-90000000,제 48 기,0,12,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,유상증자,-,제 50 기,9503142310,제 49 기,936744598,제 48 기,0,13,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,전환사채의발행,-,제 50 기,0,제 49 기,0,제 48 기,4948100000,14,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,임대보증금(비유동)의 입금,-,제 50 기,0,제 49 기,85000000,제 48 기,0,15,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsFinancingActivities,이자의　지급,-,제 50 기,9369097715,제 49 기,8999855645,제 48 기,6520323869,16,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,차입금의차입,-,제 50 기,121023779295,제 49 기,146038155042,제 48 기,162048936807,17,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,-,제 50 기,130343769003,제 49 기,148212618789,제 48 기,169828495801,18,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 50 기,19701906136,제 49 기,1274434178,제 48 기,5497333244,19,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermFinancialInstruments,장기금융상품의 감소,-,제 50 기,234253594,제 49 기,429981880,제 48 기,0,20,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금의 감소,-,제 50 기,47770839,제 49 기,56142336,제 48 기,39249398,21,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,-,제 50 기,0,제 49 기,0,제 48 기,8200000000,22,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 감소,-,제 50 기,16640000000,제 49 기,16000000000,제 48 기,11430000000,23,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 취득,-,제 50 기,24000000,제 49 기,94000000,제 48 기,156000000,24,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_PurchaseOfLongTermLoansAndReceivables,장기대여금의 증가,-,제 50 기,45000000,제 49 기,55000000,제 48 기,34051388,25,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,-,제 50 기,16533862744,제 49 기,15150000000,제 48 기,11967455400,26,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,보증금(유동)의 감소,-,제 50 기,1882274433,제 49 기,1097191565,제 48 기,222436391,27,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,보증금(유동)의 증가,-,제 50 기,2144265514,제 49 기,1097191565,제 48 기,249054747,28,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,보증금(비유동)의 증가,-,제 50 기,11000000,제 49 기,0,제 48 기,2800000,29,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,보증금(비유동)의 감소,-,제 50 기,280000,제 49 기,0,제 48 기,2800000,30,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,파생상품의 정산,-,제 50 기,-784196671,제 49 기,533853314,제 48 기,-516359971,31,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당금수취,-,제 50 기,313600000,제 49 기,313600000,제 48 기,313600000,32,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsInvestingActivities,이자수취,-,제 50 기,27321414,제 49 기,80963846,제 48 기,31951986,33,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 50 기,1663636364,제 49 기,0,제 48 기,0,34,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 50 기,19854572451,제 49 기,41909091,제 48 기,62727273,35,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 50 기,0,제 49 기,6000000,제 48 기,0,36,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 50 기,1419478030,제 49 기,877016289,제 48 기,1879710298,37,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 50 기,-9702114989,제 49 기,9725712896,제 48 기,4290993003,38,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 50 기,-3307484744,제 49 기,14545998424,제 48 기,6924010895,39,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 50 기,312661713,제 49 기,-349681488,제 48 기,191140423,40,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 감소(증가),-,제 50 기,110934402,제 49 기,28207369,제 48 기,215186749,41,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 50 기,52524852,제 49 기,-664133645,제 48 기,515405456,42,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInIncomeReceivedInAdvance,선수수익의 증가(감소),-,제 50 기,63285962,제 49 기,1432767,제 48 기,0,43,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 50 기,289728512,제 49 기,133642755,제 48 기,-13758274,44,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),-,제 50 기,-422248751,제 49 기,774924763,제 48 기,-821000255,45,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),-,제 50 기,-2436064238,제 49 기,-3489292199,제 48 기,490530247,46,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의 지급,-,제 50 기,-3510252272,제 49 기,-559791295,제 48 기,-693516124,47,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 50 기,342485253,제 49 기,22188944,제 48 기,11191167,48,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,부가세대급금의 감소,-,제 50 기,2291420,제 49 기,0,제 48 기,0,49,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,장기종업원급여의 지급,-,제 50 기,-13500000,제 49 기,-16500000,제 48 기,0,50,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 50 기,13468097238,제 49 기,-8082985868,제 48 기,7229086113,51,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInPrepaidExpenses,선급비용의 감소 (증가),-,제 50 기,23691874,제 49 기,-10261460,제 48 기,-26232115,52,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 50 기,10856477533,제 49 기,9449758145,제 48 기,-5522183524,53,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 50 기,-22447598242,제 49 기,17308489636,제 48 기,5348161032,54,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 50 기,17236829995,제 49 기,13517091400,제 48 기,10044371764,55,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비 조정,-,제 50 기,803077084,제 49 기,131283408,제 48 기,55722562,56,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 50 기,141141607,제 49 기,41904091,제 48 기,59999000,57,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익 조정,-,제 50 기,2299873,제 49 기,693092865,제 48 기,1594298897,58,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,무형자산처분이익 조정,-,제 50 기,1101536364,제 49 기,0,제 48 기,0,59,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialAssets,파생금융자산평가이익,-,제 50 기,0,제 49 기,886641306,제 48 기,817161455,60,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfInvestments,투자자산평가이익 조정,-,제 50 기,77296600,제 49 기,0,제 48 기,0,61,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForGainsOnTransactionOfDerivativeFinancialAssets,파생금융자산거래이익,-,제 50 기,282901966,제 49 기,1842709143,제 48 기,175114724,62,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용 조정,-,제 50 기,9420358262,제 49 기,9797793887,제 48 기,7352755166,63,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForLossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법손실 조정,-,제 50 기,2858433971,제 49 기,782156061,제 48 기,499317051,64,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfReceivables,매출채권처분손실 조정,-,제 50 기,239522642,제 49 기,130031576,제 48 기,116856112,65,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실 조정,-,제 50 기,1646114040,제 49 기,0,제 48 기,461820,66,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfDerivativeFinancialAssets,파생상품평가손실,-,제 50 기,107300000,제 49 기,2138533793,제 48 기,626308642,67,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실 조정,-,제 50 기,1612048032,제 49 기,54218958,제 48 기,386588617,68,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForLossesOnTransactionOfDerivativeFinancialAssets,파생상품거래손실,-,제 50 기,954066000,제 49 기,786598953,제 48 기,691474695,69,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익 조정,-,제 50 기,11519111,제 49 기,1058449,제 48 기,1803229,70,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실 조정,-,제 50 기,449784,제 49 기,428898,제 48 기,203366872,71,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,지분법이익 조정,-,제 50 기,517421779,제 49 기,852949051,제 48 기,1950884094,72,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 50 기,437931998,제 49 기,914897592,제 48 기,1163109521,73,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,장기금융상품평가이익,-,제 50 기,0,제 49 기,0,제 48 기,-1220620,74,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,사채상환손실,-,제 50 기,0,제 49 기,175601472,제 48 기,0,75,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,장기금융상품평가손실,-,제 50 기,0,제 49 기,630232,제 48 기,1369871,76,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,장기종업원급여,-,제 50 기,-22381294,제 49 기,22369937,제 48 기,57499426,77,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,금융보증손실,-,제 50 기,0,제 49 기,76938014,제 48 기,21918351,78,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,투자자산손상차손,-,제 50 기,0,제 49 기,0,제 48 기,2128518130,79,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,투자자산평가손실,-,제 50 기,0,제 49 기,118444900,제 48 기,0,80,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,대손충당금환입,-,제 50 기,0,제 49 기,0,제 48 기,0,81,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,지급수수료,-,제 50 기,113120,제 49 기,0,제 48 기,0,82,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,세금과공과,-,제 50 기,224820,제 49 기,0,제 48 기,0,83,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,금융보증부채환입,-,제 50 기,18846351,제 49 기,0,제 48 기,0,84,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,-표준계정코드 미사용-,손상차손환입,-,제 50 기,505596800,제 49 기,0,제 48 기,0,85,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 50 기,25400000,제 49 기,24900000,제 48 기,24200000,86,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 50 기,2397402565,제 49 기,2686792599,제 48 기,3018718700,87,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용 조정,-,제 50 기,-560039377,제 49 기,43939419,제 48 기,-1642277813,88,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 50 기,24631201,제 49 기,50113394,제 48 기,61053940,89,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 50 기,-1887790,제 49 기,20684437,제 48 기,-151588345,90,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 50 기,-23633348030,제 49 기,-18316692491,제 48 기,-12828978001,91,KRW,삼보산업
+20250321001475,11011,2024,00125822,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 50 기,154109210,제 49 기,-700747012,제 48 기,-210325273,92,KRW,삼보산업
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 24 기,37169559526,제 23 기,29734761734,제 22 기,17677311308,2,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 24 기,94802663172,제 23 기,37169559526,제 22 기,29734761734,3,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 24 기,173334454409,제 23 기,-22945109611,제 22 기,-6972949045,8,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 24 기,-151200000,제 23 기,0,제 22 기,0,9,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 24 기,1369200134,제 23 기,1349121704,제 22 기,987401245,10,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_ProceedsFromIssuingConvertibleBonds,전환상환우선주부채의 발행,-,제 24 기,199999891993,제 23 기,0,제 22 기,0,11,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_RepaymentsOfBonds,전환사채및신주인수권부사채의 상환,-,제 24 기,15454590000,제 23 기,0,제 22 기,0,12,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 24 기,9690447450,제 23 기,6584102580,제 22 기,5985547800,13,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,차입금의 상환,-,제 24 기,0,제 23 기,15011885327,제 22 기,0,14,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 24 기,-240115251944,제 23 기,-24627892605,제 22 기,-35571367201,15,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 24 기,111776000,제 23 기,0,제 22 기,782141500,16,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 24 기,758709672,제 23 기,499548004,제 22 기,758712797,17,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 24 기,1462550436,제 23 기,63954000,제 22 기,367191500,18,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 24 기,10955200000,제 23 기,450000000,제 22 기,298508839,19,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업투자의 감소,-,제 24 기,2903000000,제 23 기,962480392,제 22 기,0,20,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,금융자산의 감소,-,제 24 기,44122395157,제 23 기,120948124774,제 22 기,194683401661,21,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 처분,-,제 24 기,78732400000,제 23 기,40326750000,제 22 기,5000000000,22,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업투자의 취득,-,제 24 기,18704562000,제 23 기,2650000000,제 22 기,12759906916,23,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,금융자산의 증가,-,제 24 기,50836028149,제 23 기,123600650122,제 22 기,192091257611,24,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 취득,-,제 24 기,267127691993,제 23 기,53979050000,제 22 기,16000000000,25,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,관계기업으로부터의 배당금,-,제 24 기,609166666,제 23 기,0,제 22 기,1170382353,26,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,-,제 24 기,121772955,제 23 기,0,제 22 기,0,27,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 24 기,0,제 23 기,511000000,제 22 기,83475200,28,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 24 기,22284406,제 23 기,109197654,제 22 기,160004898,29,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 24 기,1942700000,제 23 기,448957210,제 22 기,230027179,30,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 24 기,0,제 23 기,0,제 22 기,43612112,31,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_PurchaseOfOtherLongtermAssetsClassifiedAsInvestingActivities,장기투자자산의 취득,-,제 24 기,0,제 23 기,565169427,제 22 기,980403240,32,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 24 기,16468024222,제 23 기,6227212670,제 22 기,15438578213,33,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 24 기,124247303520,제 23 기,55020175951,제 22 기,54628448383,34,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 24 기,-1665054753,제 23 기,-30265037787,제 22 기,-7695410070,35,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 24 기,48474098334,제 23 기,20270853693,제 22 기,31699350126,36,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부,-,제 24 기,18735473058,제 23 기,15930728450,제 22 기,12721643391,37,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 24 기,141911072,제 23 기,641752595,제 22 기,394934376,38,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 24 기,5222261572,제 23 기,5418067005,제 22 기,3266746026,39,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익,-,제 24 기,91093382497,제 23 기,76168774085,제 22 기,40474340068,40,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 24 기,166597661,제 23 기,-12375943,제 22 기,-26681711,41,KRW,파마리서치
+20250317000758,11011,2024,00970453,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 24 기,57633103646,제 23 기,7434797792,제 22 기,12057450426,42,KRW,파마리서치

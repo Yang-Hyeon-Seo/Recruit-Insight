@@ -1,0 +1,111 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 27 기,5492504743,제 26 기,5145454143,제 25 기,6263866473,2,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 27 기,2682708962,제 26 기,5492504743,제 25 기,5145454143,3,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 27 기,-426251039,제 26 기,-485780520,제 25 기,6362377605,8,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_PaymentForStockIssueCost,신주발행비 지급,-,제 27 기,,제 26 기,,제 25 기,477466330,9,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,금융리스부채의 지급,-,제 27 기,426251039,제 26 기,452448520,제 25 기,302260065,10,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 27 기,,제 26 기,,제 25 기,582400000,11,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 27 기,,제 26 기,33332000,제 25 기,99996000,12,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 27 기,,제 26 기,,제 25 기,430000000,13,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 수취,-,제 27 기,,제 26 기,,제 25 기,14500000,14,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,주식의 발행,-,제 27 기,,제 26 기,,제 25 기,8240000000,15,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 27 기,-2762585886,제 26 기,-777762000,제 25 기,-7873254011,16,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 27 기,,제 26 기,100000000,제 25 기,,17,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 27 기,212779295,제 26 기,,제 25 기,250000000,18,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 27 기,85213250,제 26 기,,제 25 기,,19,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 27 기,180000000,제 26 기,250000000,제 25 기,250000000,20,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_ProceedsFromSalesOfOtherCurrentFinancialAssets,기타유동금융자산의 처분,-,제 27 기,11594794049,제 26 기,18205754744,제 25 기,16683000000,21,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 처분,-,제 27 기,,제 26 기,,제 25 기,47166000,22,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_ProceedsFromSalesOfVehicles,차량운반구의 처분,-,제 27 기,40317840,제 26 기,,제 25 기,,23,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_PurchaseOfOtherCurrentFinancialAssets,기타유동금융자산의 취득,-,제 27 기,13945540610,제 26 기,18769690927,제 25 기,23510732895,24,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_PurchaseOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 취득,-,제 27 기,,제 26 기,,제 25 기,400000000,25,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_PurchaseOfVehicles,차량운반구의 취득,-,제 27 기,40317836,제 26 기,,제 25 기,,26,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 27 기,442000,제 26 기,2417000,제 25 기,3444000,27,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 27 기,49629420,제 26 기,41548545,제 25 기,257723699,28,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 27 기,310217954,제 26 기,24694272,제 25 기,438407417,29,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 27 기,378268582,제 26 기,1610593120,제 25 기,392464076,30,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 27 기,-95048325,제 26 기,541544946,제 25 기,594958295,31,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInValueAddedTaxReceivables,부가가치세 선급금의 감소(증가),-,제 27 기,-3861383,제 26 기,,제 25 기,,32,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAccruedIncome,미수수익의 감소(증가),-,제 27 기,,제 26 기,,제 25 기,-77832995,33,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 27 기,13181101,제 26 기,-1486780,제 25 기,6821085,34,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInCurrentTaxAssets,당기법인세자산의 감소(증가),-,제 27 기,-66303746,제 26 기,-71148590,제 25 기,-22736070,35,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 27 기,42121062,제 26 기,-181500,제 25 기,8075960,36,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInCurrentValueAddedTaxPayables,부가가치세 예수금의 증가(감소),-,제 27 기,,제 26 기,-144277720,제 25 기,144277720,37,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 증가(감소),-,제 27 기,16994818,제 26 기,12256633,제 25 기,-23930761,38,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가(감소),-,제 27 기,-183413112,제 26 기,4302829,제 25 기,160045452,39,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInCurrentTaxLiabilities,당기법인세부채의 증가(감소),-,제 27 기,,제 26 기,,제 25 기,5711823,40,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherLongTermProvisions,기타장기충당부채의 증가(감소),-,제 27 기,,제 26 기,19191000,제 25 기,,41,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 증가(감소),-,제 27 기,-26804680,제 26 기,135527142,제 25 기,92288649,42,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직급여채무의 증가(감소),-,제 27 기,,제 26 기,,제 25 기,-270326329,43,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInWithholdingsBanks,예수금의 증가(감소),-,제 27 기,-21768340,제 26 기,15804588,제 25 기,8039802,44,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInPrepaidExpenses,선급비용의 감소 (증가),-,제 27 기,-46605733,제 26 기,672660,제 25 기,32883630,45,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 27 기,74682494,제 26 기,391203534,제 25 기,578811438,46,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 27 기,106729194,제 26 기,179681150,제 25 기,-47171109,47,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 27 기,574470798,제 26 기,-139001132,제 25 기,-381220914,48,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비 조정,-,제 27 기,7669689,제 26 기,-195055,제 25 기,-153189047,49,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 27 기,99342,제 26 기,11664,제 25 기,,50,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialLiabilities,파생금융부채평가이익,-,제 27 기,,제 26 기,,제 25 기,1005933682,51,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용 조정,-,제 27 기,37890566,제 26 기,50739800,제 25 기,123429990,53,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실 조정,-,제 27 기,5481569,제 26 기,18815699,제 25 기,50026275,54,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익 조정,-,제 27 기,,제 26 기,,제 25 기,3127359,55,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실 조정,-,제 27 기,3860,제 26 기,,제 25 기,,56,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비 조정,-,제 27 기,217220705,제 26 기,10938204,제 25 기,,57,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 27 기,,제 26 기,,제 25 기,-51059607,58,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_AdjustmentsForShareBasedPayment,주식보상비용(환입) 조정,-,제 27 기,110984211,제 26 기,-322595911,제 25 기,391278383,59,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,dart_DecreaseOfRightofuseAssetsDueToTerminationOrCancellationOfLeaseContracts,"계약 종료 또는 해지로 인한 감소, 사용권자산",-,제 27 기,30104,제 26 기,483947971,제 25 기,-1711982,60,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 27 기,73387669,제 26 기,81575047,제 25 기,67631679,61,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 27 기,601060789,제 26 기,597511935,제 25 기,433266364,62,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 27 기,479098814,제 26 기,91831216,제 25 기,235255892,63,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 27 기,-73995210,제 26 기,-14182377,제 25 기,-2859050,64,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 27 기,,제 26 기,434547,제 25 기,3162168,65,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 27 기,425525693,제 26 기,461270955,제 25 기,225074033,66,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 27 기,-600674794,제 26 기,733030521,제 25 기,-46044220,67,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 27 기,772562,제 26 기,,제 25 기,,68,KRW,비큐AI
+20250321000642,11011,2024,00980043,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 27 기,-2809795781,제 26 기,347050600,제 25 기,-1118412330,69,KRW,비큐AI
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 57 기,60552271435,제 56 기,73693490999,제 55 기,85443962479,2,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말의 현금및현금성자산,-,제 57 기,50271577483,제 56 기,60552271435,제 55 기,73693490999,3,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 57 기,-22304974746,제 56 기,-2297966071,제 55 기,-39791517054,8,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,-표준계정코드 미사용-,재무활동으로 인한 현금유입액,-,제 57 기,63020571996,제 56 기,32807371965,제 55 기,49240062108,9,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 57 기,326000000,제 56 기,90000000,제 55 기,182851000,10,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 57 기,22900000000,제 56 기,0,제 55 기,35000000000,11,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 57 기,39570655576,제 56 기,32358325588,제 55 기,12669735864,12,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 증가,-,제 57 기,223916420,제 56 기,359046377,제 55 기,1387475244,13,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,-표준계정코드 미사용-,재무활동으로 인한 현금유출액,-,제 57 기,85325546742,제 56 기,35105338036,제 55 기,89031579162,14,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 57 기,3039604572,제 56 기,2528217311,제 55 기,2248193593,15,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 감소,-,제 57 기,18849113333,제 56 기,520930000,제 55 기,20000000000,16,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 감소,-,제 57 기,45998528906,제 56 기,21084351565,제 55 기,57835817464,17,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 상환,-,제 57 기,5729190000,제 56 기,0,제 55 기,0,18,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 57 기,8313065580,제 56 기,8050633200,제 55 기,8049373200,19,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsFinancingActivities,이자의 지급,-,제 57 기,3396044351,제 56 기,2921205960,제 55 기,898194905,20,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 57 기,-64864253195,제 56 기,-52390667168,제 55 기,-12408350478,21,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_InflowsOfCashFromInvestingActivities,투자활동으로 인한 현금유입액,-,제 57 기,65103733913,제 56 기,144184941269,제 55 기,305026380301,22,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 57 기,327798000,제 56 기,625258000,제 55 기,734115800,23,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익공정가치 측정 금융자산의 감소,-,제 57 기,11660537852,제 56 기,7296976007,제 55 기,10749321244,24,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금의 감소,-,제 57 기,0,제 56 기,0,제 55 기,3058126,25,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 57 기,40457600000,제 56 기,126948364732,제 55 기,282032964014,26,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 감소,-,제 57 기,81439540,제 56 기,728600362,제 55 기,3136800000,27,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,지배력 획득으로 인한 순현금유입,-,제 57 기,2571879977,제 56 기,2031772,제 55 기,0,28,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당금의 수취,-,제 57 기,12482237,제 56 기,3570850,제 55 기,5234530165,29,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsInvestingActivities,이자의 수취,-,제 57 기,4739781331,제 56 기,4698120546,제 55 기,3110239877,30,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 증가,-,제 57 기,86550000,제 56 기,302620000,제 55 기,0,31,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 57 기,297118546,제 56 기,0,제 55 기,0,32,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 57 기,2963647000,제 56 기,0,제 55 기,0,33,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod,관계기업투자의 감소,-,제 57 기,1870699430,제 56 기,0,제 55 기,0,34,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 57 기,34200000,제 56 기,3579399000,제 55 기,25351075,35,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_OutflowsOfCashFromInvestingActivities,투자활동으로 인한 현금유출액,-,제 57 기,129967987108,제 56 기,196575608437,제 55 기,317434730779,36,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 57 기,419976000,제 56 기,872386422,제 55 기,571741857,37,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익공정가치 측정 금융자산의 증가,-,제 57 기,18008230280,제 56 기,19820077097,제 55 기,32658323448,38,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 증가,-,제 57 기,0,제 56 기,868425312,제 55 기,266347812,39,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 57 기,41611448991,제 56 기,134687574972,제 55 기,228020784943,40,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,-,제 57 기,6700000000,제 56 기,737139902,제 55 기,3944759036,41,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 57 기,4234448952,제 56 기,5413306160,제 55 기,4058367336,42,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,종속기업투자의 증가,-,제 57 기,31702806953,제 56 기,0,제 55 기,0,43,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 57 기,723211482,제 56 기,240000000,제 55 기,742900000,44,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 57 기,26567864450,제 56 기,33936698572,제 55 기,47171506347,45,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 57 기,76090779747,제 56 기,41792950678,제 55 기,40909001891,46,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,자산ㆍ부채증감,-,제 57 기,-24582965264,제 56 기,-35160126242,제 55 기,-39836656384,47,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정항목,-,제 57 기,49668639733,제 56 기,44695823248,제 55 기,37667209378,48,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,-,제 57 기,11331004768,제 56 기,16614132540,제 55 기,11678318384,49,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익,-,제 57 기,62336110046,제 56 기,48871386212,제 55 기,54756767281,50,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산의 환율변동으로 인한 효과,-,제 57 기,797754242,제 56 기,-245537003,제 55 기,-459605839,51,KRW,동국제약
+20250313001454,11011,2024,00114808,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,현금및현금성자산의 감소,-,제 57 기,-11078448194,제 56 기,-12895682561,제 55 기,-11290865641,52,KRW,동국제약

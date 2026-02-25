@@ -1,0 +1,65 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,thstrm_add_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 39 기,10712273142,,제 38 기,12554831007,제 37 기,12725623531,6,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_OtherGains,기타이익,-,제 39 기,1953463458,,제 38 기,3192346503,제 37 기,3144109845,7,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_OtherLosses,기타손실,-,제 39 기,10882597254,,제 38 기,2106764980,제 37 기,3059817435,8,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비 및 물류비,-,제 39 기,12312584078,,제 38 기,14612958418,제 37 기,10738362779,9,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,-표준계정코드 미사용-,공동기업투자손익,-,제 39 기,201451704,,제 38 기,-490148456,제 37 기,129380081,10,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 39 기,-2322735769,,제 38 기,8542982931,제 37 기,11371706233,11,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 39 기,-2322735769,,제 38 기,8542982931,제 37 기,11371706233,14,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 39 기,148063395195,,제 38 기,142727423140,제 37 기,132587341929,15,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 39 기,-65,,제 38 기,557,제 37 기,709,17,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,계속영업기본주당이익(손실),-,제 39 기,-65,,제 38 기,557,제 37 기,501,18,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,중단영업기본주당이익(손실),-,제 39 기,,,제 38 기,,제 37 기,208,19,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 39 기,-72,,제 38 기,557,제 37 기,695,20,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,계속영업희석주당이익(손실),-,제 39 기,-72,,제 38 기,557,제 37 기,492,21,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,중단영업희석주당이익(손실),-,제 39 기,,,제 38 기,,제 37 기,203,22,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 39 기,2666879722,,제 38 기,2462091686,제 37 기,2544124362,23,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 39 기,1082619385,,제 38 기,568315935,제 37 기,131194469,24,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 39 기,23024857220,,제 38 기,27167789425,제 37 기,23463986310,25,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 39 기,1552645973,,제 38 기,1454322138,제 37 기,1782518259,26,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 39 기,-1170420509,,제 38 기,-1259183254,제 37 기,-997878783,27,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),-,제 39 기,195864460,,제 38 기,-860296371,제 37 기,-1118337660,28,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),-,제 39 기,1050319046,,제 38 기,-845626429,제 37 기,-841690030,29,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동(세후기타포괄손익),-,제 39 기,-854454586,,제 38 기,-14669942,제 37 기,-276647630,30,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 39 기,-1366284969,,제 38 기,-398886883,제 37 기,120458877,31,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,-표준계정코드 미사용-,기타포괄손익-공정가치 측정 금융자산 평가손익,-,제 39 기,-218237548,,제 38 기,-15331235,제 37 기,-61027200,32,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익,-,제 39 기,-1148047421,,제 38 기,-527147557,제 37 기,181486077,33,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,자산재평가손익(세후기타포괄손익),-,제 39 기,,,제 38 기,143591909,제 37 기,,34,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 39 기,-1152315260,,제 38 기,9802166185,제 37 기,12369585016,35,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 39 기,-1152315260,,제 38 기,9802166185,제 37 기,12369585016,38,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 39 기,400330713,,제 38 기,11256488323,제 37 기,10526366129,39,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실),-,제 39 기,-1152315260,,제 38 기,9802166185,제 37 기,8743847870,40,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),-,제 39 기,,,제 38 기,,제 37 기,3625737146,41,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 39 기,171088252415,,제 38 기,169895212565,제 37 기,156051328239,42,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_OperatingIncomeLoss,영업이익(손실),-,제 39 기,10712273142,,제 38 기,12554831007,제 37 기,12725623531,6,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_OtherGains,기타이익,-,제 39 기,1953463458,,제 38 기,3192346503,제 37 기,3144109845,7,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_OtherLosses,기타손실,-,제 39 기,10882597254,,제 38 기,2106764980,제 37 기,3059817435,8,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비 및 물류비,-,제 39 기,12312584078,,제 38 기,14612958418,제 37 기,10738362779,9,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,-표준계정코드 미사용-,공동기업투자손익,-,제 39 기,201451704,,제 38 기,-490148456,제 37 기,129380081,10,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncome,총포괄손익,-,제 39 기,-2322735769,,제 38 기,8542982931,제 37 기,11371706233,11,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"포괄손익, 지배기업의 소유주에게 귀속되는 지분",-,제 39 기,-2322735769,,제 38 기,8542982931,제 37 기,11371706233,14,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_CostOfSales,매출원가,-,제 39 기,148063395195,,제 38 기,142727423140,제 37 기,132587341929,15,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShare,기본주당이익(손실),-,제 39 기,-65,,제 38 기,557,제 37 기,709,17,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,계속영업기본주당이익(손실),-,제 39 기,-65,,제 38 기,557,제 37 기,501,18,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,중단영업기본주당이익(손실),-,제 39 기,,,제 38 기,,제 37 기,208,19,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실),-,제 39 기,-72,,제 38 기,557,제 37 기,695,20,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,계속영업희석주당이익(손실),-,제 39 기,-72,,제 38 기,557,제 37 기,492,21,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,중단영업희석주당이익(손실),-,제 39 기,,,제 38 기,,제 37 기,203,22,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_FinanceCosts,금융원가,-,제 39 기,2666879722,,제 38 기,2462091686,제 37 기,2544124362,23,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_FinanceIncome,금융수익,-,제 39 기,1082619385,,제 38 기,568315935,제 37 기,131194469,24,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_GrossProfit,매출총이익,-,제 39 기,23024857220,,제 38 기,27167789425,제 37 기,23463986310,25,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익),-,제 39 기,1552645973,,제 38 기,1454322138,제 37 기,1782518259,26,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncome,기타포괄손익,-,제 39 기,-1170420509,,제 38 기,-1259183254,제 37 기,-997878783,27,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류될 수 있는 항목(세후기타포괄손익),-,제 39 기,195864460,,제 38 기,-860296371,제 37 기,-1118337660,28,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,해외사업장환산외환차이(세후기타포괄손익),-,제 39 기,1050319046,,제 38 기,-845626429,제 37 기,-841690030,29,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,지분법자본변동(세후기타포괄손익),-,제 39 기,-854454586,,제 38 기,-14669942,제 37 기,-276647630,30,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,당기손익으로 재분류되지 않는항목(세후기타포괄손익),-,제 39 기,-1366284969,,제 38 기,-398886883,제 37 기,120458877,31,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,-표준계정코드 미사용-,기타포괄손익-공정가치 측정 금융자산 평가손익,-,제 39 기,-218237548,,제 38 기,-15331235,제 37 기,-61027200,32,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,확정급여제도의 재측정손익,-,제 39 기,-1148047421,,제 38 기,-527147557,제 37 기,181486077,33,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,자산재평가손익(세후기타포괄손익),-,제 39 기,,,제 38 기,143591909,제 37 기,,34,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLoss,당기순이익(손실),-,제 39 기,-1152315260,,제 38 기,9802166185,제 37 기,12369585016,35,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실),-,제 39 기,-1152315260,,제 38 기,9802166185,제 37 기,12369585016,38,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실),-,제 39 기,400330713,,제 38 기,11256488323,제 37 기,10526366129,39,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실),-,제 39 기,-1152315260,,제 38 기,9802166185,제 37 기,8743847870,40,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실),-,제 39 기,,,제 38 기,,제 37 기,3625737146,41,KRW,세동
+20250321001029,11011,2024,00133663,CIS,포괄손익계산서,ifrs-full_Revenue,수익(매출액),-,제 39 기,171088252415,,제 38 기,169895212565,제 37 기,156051328239,42,KRW,세동

@@ -1,0 +1,232 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 70 기,37983049873,제 69 기,27215043918,제 68 기,32893938249,2,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말의 현금및현금성자산,-,제 70 기,4169946878,제 69 기,37983049873,제 68 기,27215043918,3,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,-표준계정코드 미사용-,인적분할로 인한 변동,-,제 70 기,-17440000000,제 69 기,0,제 68 기,0,8,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 70 기,2265830930,제 69 기,-103327481531,제 68 기,-143079521804,9,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 70 기,1151534256,제 69 기,,제 68 기,0,10,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 70 기,15402373746,제 69 기,15409821025,제 68 기,14521168053,11,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 70 기,114266560443,제 69 기,1762016453,제 68 기,6808010356,12,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_RepaymentForGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 상환,-,제 70 기,420277296,제 69 기,1175556168,제 68 기,379339,13,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 70 기,73512600460,제 69 기,1400353202,제 68 기,7472964754,14,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 70 기,59728212000,제 69 기,89592318000,제 68 기,129411126000,15,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsFinancingActivities,정부보조금의 수령,-,제 70 기,4877252281,제 69 기,2624430411,제 68 기,1653985986,16,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProceedsFromSaleOrIssueOfTreasuryShares,자기주식의 처분,-,제 70 기,33472895964,제 69 기,,제 68 기,0,17,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기차입금의 상환,-,제 70 기,135880000,제 69 기,135880000,제 68 기,135880000,18,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 70 기,-221769462230,제 69 기,-100624575871,제 68 기,-49150700519,19,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromSalesOfAvailableForSaleFinancialAssets,기타포괄손익-공정가치측정금융자산의 처분,-,제 70 기,100000000,제 69 기,47555000,제 68 기,422105004,20,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 처분,-,제 70 기,2447623818,제 69 기,3481150000,제 68 기,3577184402,21,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialAssetsHeldToMaturity,상각후원가측정금융자산의 처분,-,제 70 기,20000000,제 69 기,12001000000,제 68 기,,22,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업의 처분,-,제 70 기,1200000000,제 69 기,,제 68 기,0,23,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업의 처분,-,제 70 기,0,제 69 기,0,제 68 기,3282242472,24,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금의 회수,-,제 70 기,4008000,제 69 기,20003674000,제 68 기,11836000,25,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 취득,-,제 70 기,3191250000,제 69 기,45453175000,제 68 기,489000000,26,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_PurchaseOfFinancialAssetsHeldToMaturity,상각후원가측정금융자산의 취득,-,제 70 기,,제 69 기,12000000000,제 68 기,,27,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업의 취득,-,제 70 기,25996314238,제 69 기,70599657153,제 68 기,11943000000,28,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_PurchaseOfInvestmentsInJointVentures,기타 투자자산의 취득,-,제 70 기,248832000,제 69 기,,제 68 기,0,29,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업의 취득,-,제 70 기,191520564,제 69 기,3384429112,제 68 기,10100409807,30,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,-표준계정코드 미사용-,장기보증금의 감소,-,제 70 기,0,제 69 기,0,제 68 기,38503326,31,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,-표준계정코드 미사용-,단기보증금의 감소,-,제 70 기,295796920,제 69 기,22000000,제 68 기,1700000000,32,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,-표준계정코드 미사용-,장기보증금의 증가,-,제 70 기,-4996000,제 69 기,-76686900,제 68 기,-124018540,33,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,-표준계정코드 미사용-,단기보증금의 증가,-,제 70 기,-232749040,제 69 기,-27380000,제 68 기,,34,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,유형자산 관련 정부보조금의 수령,-,제 70 기,2301698245,제 69 기,,제 68 기,0,35,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 70 기,10982225073,제 69 기,,제 68 기,433877230,36,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 70 기,5711189168,제 69 기,5772272920,제 68 기,72796010,37,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_PurchaseOfAvailableforsaleFinancialAssets,기타포괄손익-공정가치측정금융자산의 취득,-,제 70 기,200000000000,제 69 기,,제 68 기,20100000000,38,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 70 기,2833827873,제 69 기,1280789668,제 68 기,2664253872,39,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 70 기,12132513739,제 69 기,9130109958,제 68 기,13268562744,40,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 70 기,203130528305,제 69 기,214720063357,제 68 기,186551327992,41,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,운전자본 조정,-,제 70 기,116590602908,제 69 기,71910564794,제 68 기,-2360886868,42,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,비현금항목 조정,-,제 70 기,-429571927163,제 69 기,27151086725,제 68 기,31308522151,43,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 70 기,52509477641,제 69 기,87831289971,제 68 기,141050468680,44,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부,-,제 70 기,2698823464,제 69 기,5422274967,제 68 기,4681301556,45,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 70 기,2192054554,제 69 기,1238832458,제 68 기,1044118254,46,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 70 기,11417971574,제 69 기,31692775148,제 68 기,7939896366,47,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProfitLossFromContinuingOperationsAttributableToOrdinaryEquityHoldersOfParentEntity,계속영업당기순이익,-,제 70 기,141642647322,제 69 기,-5845269791,제 68 기,-46047502864,48,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_ProfitLossFromDiscontinuedOperationsAttributableToOrdinaryEquityHoldersOfParentEntity,중단영업이익,-,제 70 기,315432634041,제 69 기,8640723935,제 68 기,60386250337,49,KRW,효성
+20250313001006,11011,2024,00117188,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 순증감,-,제 70 기,-16373102995,제 69 기,10768005955,제 68 기,-5678894331,50,KRW,효성
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의현금및현금성자산,-,제 37 기,416897560,제 36 기,8866141890,제 35 기,11479536294,2,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말의현금및현금성자산,-,제 37 기,491387834,제 36 기,416897560,제 35 기,8866141890,3,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,-표준계정코드 미사용-,외화표시 현금및현금성자산의 환율변동효과,-,제 37 기,,제 36 기,-1217219,제 35 기,,8,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 37 기,18872413856,제 36 기,-4464876460,제 35 기,-568904249,9,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,기타유동금융부채(보증금)의 감소,-,제 37 기,371390000,제 36 기,491261000,제 35 기,203105000,10,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,기타유동금융부채(보증금)의 증가,-,제 37 기,34090000,제 36 기,9970000,제 35 기,1604000,11,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 37 기,136113231,제 36 기,184785300,제 35 기,193403249,12,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_ProceedsFromConvertibleBonds,전환사채의 발행,-,제 37 기,20000000000,제 36 기,,제 35 기,,13,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 37 기,,제 36 기,,제 35 기,28000000,14,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 상환,-,제 37 기,20817622930,제 36 기,,제 35 기,,15,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 37 기,72701000000,제 36 기,40063000000,제 35 기,,16,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,-표준계정코드 미사용-,기타비유동금융부채(보증금)의 감소,-,제 37 기,-49000000,제 36 기,-20000000,제 35 기,,17,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,-표준계정코드 미사용-,배당금의 반환,-,제 37 기,688675941,제 36 기,,제 35 기,,18,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,-표준계정코드 미사용-,기타비유동금융부채(보증금)의 증가,-,제 37 기,229000000,제 36 기,210000000,제 35 기,298000000,19,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 37 기,,제 36 기,2538800160,제 35 기,,20,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities,단기차입금의 차입,-,제 37 기,97595774076,제 36 기,40313000000,제 35 기,,21,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기차입금의 상환,-,제 37 기,5600000000,제 36 기,1700000000,제 35 기,500000000,22,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 37 기,-26484369172,제 36 기,-10934564017,제 35 기,-7254395507,23,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_DecreaseInLoans,단기대여금의 감소,-,제 37 기,31163595510,제 36 기,4828643630,제 35 기,1662072957,24,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_IncreaseInLoans,단기대여금의 증가,-,제 37 기,31165276670,제 36 기,4828702700,제 35 기,1661450977,25,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치금융자산의 처분,-,제 37 기,13104540183,제 36 기,9424726799,제 35 기,402633300,26,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_ProceedsFromSalesOfFinancialInstruments,기타포괄-공정가치금융자산의 처분,-,제 37 기,67258100,제 36 기,5642570,제 35 기,27339150,27,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,기타비유동금융자산(보증금)의 감소,-,제 37 기,83400000,제 36 기,50000000,제 35 기,,28,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 37 기,,제 36 기,2000000000,제 35 기,,29,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치금융자산의 취득,-,제 37 기,5550098684,제 36 기,13662812735,제 35 기,3647555345,30,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업투자주식의 취득,-,제 37 기,32000000000,제 36 기,7349652760,제 35 기,1495000000,31,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 증가,-,제 37 기,94310214,제 36 기,93281181,제 35 기,89294492,32,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_PurchaseOfOtherNonCurrentFinancialAssets,기타비유동금융자산(보증금)의 증가,-,제 37 기,1780000,제 36 기,,제 35 기,,33,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 37 기,,제 36 기,,제 35 기,2000000000,34,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수령,-,제 37 기,,제 36 기,20000000,제 35 기,,35,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 37 기,2000000,제 36 기,9090910,제 35 기,,36,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 37 기,2093697397,제 36 기,1338218550,제 35 기,453140100,37,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 37 기,7686445590,제 36 기,6951413366,제 35 기,5209905352,38,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산ㆍ부채의변동,-,제 37 기,403149958,제 36 기,127519063,제 35 기,466130456,39,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInTradeAndOtherCurrentReceivables,기타수취채권의 감소(증가),-,제 37 기,35868892,제 36 기,118579335,제 35 기,565182422,40,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,확정급여채무의 증가(감소),-,제 37 기,-99993145,제 36 기,-41787531,제 35 기,-65374875,41,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInTradeAndOtherCurrentPayables,기타지급채무의 증가(감소),-,제 37 기,26799553,제 36 기,168972616,제 35 기,24302762,42,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 37 기,471452187,제 36 기,-165553202,제 35 기,196790439,43,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 감소(증가),-,제 37 기,16784322,제 36 기,-22632445,제 35 기,100268123,44,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 37 기,-293966004,제 36 기,-803493921,제 35 기,-483104590,45,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 37 기,-76630187,제 36 기,58569359,제 35 기,185459747,46,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 37 기,322834340,제 36 기,814864852,제 35 기,-57393572,47,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,조정,-,제 37 기,1184293196,제 36 기,-2407203604,제 35 기,-844140646,48,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비,-,제 37 기,468000643,제 36 기,,제 35 기,266698941,49,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익,-,제 37 기,7683067,제 36 기,11714770,제 35 기,,50,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfDerivativeFinancialAssets,파생상품평가이익,-,제 37 기,5689820000,제 36 기,,제 35 기,43961678,51,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치금융자산평가이익,-,제 37 기,39360,제 36 기,157087654,제 35 기,88981550,52,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates,종속기업투자주식손상차손,-,제 37 기,3016343913,제 36 기,560563807,제 35 기,2175392031,53,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용,-,제 37 기,3454224401,제 36 기,2308256396,제 35 기,1691106119,54,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesFromRedemptionOfBorrowings,사채상환손실,-,제 37 기,3069695214,제 36 기,,제 35 기,,55,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfFinancialAssets,당기손익-공정가치금융자산처분손실,-,제 37 기,48988049,제 36 기,50530,제 35 기,,56,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsOfLongTermInvestmentAssets,장기금융상품평가손실,-,제 37 기,28699695,제 36 기,29131176,제 35 기,28155644,57,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfDerivativeFinancialAssets,파생상품평가손실,-,제 37 기,2024060000,제 36 기,121098529,제 35 기,,58,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치금융자산평가손실,-,제 37 기,5547000,제 36 기,5116520,제 35 기,79042935,59,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesOnEvaluationOfInvestmentProperty,투자부동산평가손실,-,제 37 기,10833333,제 36 기,29166667,제 35 기,,60,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실,-,제 37 기,,제 36 기,1217219,제 35 기,,61,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비,-,제 37 기,1670095559,제 36 기,,제 35 기,,62,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여,-,제 37 기,239506489,제 36 기,213515560,제 35 기,227063756,63,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 37 기,-7336296442,제 36 기,-6363080010,제 35 기,-5637854320,64,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,-표준계정코드 미사용-,당기손익-공정가치금융자산처분이익,-,제 37 기,-624640858,제 36 기,-330599970,제 35 기,-3595600,65,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 37 기,988310105,제 36 기,987678884,제 35 기,979680750,66,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용(수익),-,제 37 기,178204926,제 36 기,460368679,제 35 기,-243908615,67,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 37 기,359736404,제 36 기,260885167,제 35 기,272979059,68,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취(영업),-,제 37 기,7336296442,제 36 기,6363080010,제 35 기,5637854320,69,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 환급(납부),-,제 37 기,52127622,제 36 기,27690357,제 35 기,145974692,70,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 37 기,2874897782,제 36 기,2960750214,제 35 기,2008323323,71,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 37 기,352738292,제 36 기,300063242,제 35 기,220057265,72,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 37 기,1336993106,제 36 기,5556395226,제 35 기,1884301972,73,KRW,HC홈센타
+20250318000797,11011,2024,00288495,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 증가(감소),-,제 37 기,74490274,제 36 기,-8448027111,제 35 기,-2613394404,74,KRW,HC홈센타
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,현금및현금성자산의 환율변동효과,-,제 35 기,29953766,제 34 기,-38337710,제 33 기,-32411539,6,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,현금의 증가(감소),-,제 35 기,1312898407,제 34 기,3263731187,제 33 기,2584957423,7,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,기초 현금및현금성자산,-,제 35 기,7043750318,제 34 기,3780019131,제 33 기,1195061708,8,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,기말 현금및현금성자산,-,제 35 기,8356648725,제 34 기,7043750318,제 33 기,3780019131,9,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 35 기,-864789891,제 34 기,1138594261,제 33 기,-2165029559,10,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 35 기,0,제 34 기,0,제 33 기,125000000,11,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 35 기,0,제 34 기,3000000000,제 33 기,0,12,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 35 기,3400000000,제 34 기,3400000000,제 33 기,1800000000,13,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 감소,-,제 35 기,3400000000,제 34 기,1400000000,제 33 기,3210000000,14,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,유상증자,-,제 35 기,0,제 34 기,0,제 33 기,-5591,15,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,유동성리스부채의 상환,-,제 35 기,-744789891,제 34 기,-715572400,제 33 기,-615023972,16,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,유동성장기부채의 상환,-,제 35 기,0,제 34 기,-3145833339,제 33 기,-249999996,17,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,임대보증금의 감소,-,제 35 기,120000000,제 34 기,0,제 33 기,15000000,18,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 35 기,-566571980,제 34 기,-476110418,제 33 기,-617732791,19,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 35 기,10000000,제 34 기,0,제 33 기,0,20,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 35 기,60000000,제 34 기,16836000,제 33 기,40000000,21,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,단기대여금의 감소,-,제 35 기,0,제 34 기,0,제 33 기,650000000,22,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,단기기타금융자산(상각후원가측정)의 증가,-,제 35 기,-540023525,제 34 기,-25401,제 33 기,-6904,23,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,단기대여금의 증가,-,제 35 기,,제 34 기,0,제 33 기,-650000000,24,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,장기기타금융자산(상각후원가측정)의 감소,-,제 35 기,520000000,제 34 기,0,제 33 기,0,25,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,장기대여금의 감소,-,제 35 기,0,제 34 기,20000000,제 33 기,40000000,26,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,장기기타금융자산(상각후원가측정)의 증가,-,제 35 기,-120000000,제 34 기,-350000000,제 33 기,-160000000,27,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 35 기,0,제 34 기,166562105,제 33 기,0,28,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 35 기,376548455,제 34 기,295811122,제 33 기,457725887,29,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 35 기,2714306512,제 34 기,2639585054,제 33 기,5400131312,30,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,영업에서 사용된 현금흐름,-,제 35 기,2724170539,제 34 기,2779706536,제 33 기,5676511903,31,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,조정,-,제 35 기,2393377399,제 34 기,4682436596,제 33 기,2126496227,32,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,영업활동으로 인한 자산과 부채의 변동,-,제 35 기,-637453546,제 34 기,383049225,제 33 기,-184477109,33,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,당기순이익(손실),-,제 35 기,968246686,제 34 기,-2285779285,제 33 기,3734492785,34,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,이자의 수취,-,제 35 기,289461221,제 34 기,95142261,제 33 기,20599750,35,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,이자의 지급,-,제 35 기,-276159138,제 34 기,-224866213,제 33 기,-301506311,36,KRW,유아이디
+20250314000811,11011,2024,00400121,CF,현금흐름표,-표준계정코드 미사용-,법인세의 환급(지급),-,제 35 기,-23166110,제 34 기,-10397530,제 33 기,4525970,37,KRW,유아이디
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 27 기,5342696550,제 26 기,4723812339,제 25 기,27345090012,2,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 27 기,2520954852,제 26 기,5342696550,제 25 기,4723812339,3,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 27 기,405749980,제 26 기,295006032,제 25 기,-2292344024,8,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득으로 인한 현금의 유출,-,제 27 기,251002110,제 26 기,434216680,제 25 기,0,9,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 27 기,310000000,제 26 기,57000000,제 25 기,23000000,10,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 증가,-,제 27 기,350000000,제 26 기,0,제 25 기,60000000,11,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PaymentForStockIssueCost,신주발행비 지급,-,제 27 기,0,제 26 기,0,제 25 기,0,12,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,금융리스부채의 지급,-,제 27 기,36967910,제 26 기,35386729,제 25 기,32421393,13,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 27 기,1000000000,제 26 기,0,제 25 기,0,14,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 27 기,4900000000,제 26 기,5800000000,제 25 기,-250000011,15,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 감소,-,제 27 기,,제 26 기,3762048659,제 25 기,,16,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,유동성장기차입의 상환,-,제 27 기,5246280000,제 26 기,746280000,제 25 기,746280000,17,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 27 기,0,제 26 기,0,제 25 기,0,18,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 27 기,0,제 26 기,470061900,제 25 기,1300642620,19,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_PaymentsOfOtherEquityInstruments,기타지분상품에 대한 현금유출,-,제 27 기,0,제 26 기,0,제 25 기,0,20,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,주식의 발행,-,제 27 기,0,제 26 기,0,제 25 기,0,21,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,장기차입금의 상환,-,제 27 기,0,제 26 기,0,제 25 기,0,22,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 27 기,-377727051,제 26 기,3620294868,제 25 기,-26908206796,23,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 27 기,5000000,제 26 기,900000,제 25 기,20000000,24,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 27 기,726003256,제 26 기,439179544,제 25 기,241054550,25,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 27 기,350000000,제 26 기,350900000,제 25 기,5000000,26,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업에 대한 투자자산의 처분,-,제 27 기,0,제 26 기,0,제 25 기,0,27,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 처분,-,제 27 기,0,제 26 기,0,제 25 기,0,28,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermFinancialInstruments,장기대여금의 감소,-,제 27 기,1167511117,제 26 기,633980684,제 25 기,,29,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfCurrentFairValueFinancialAsset,유동당기손익인식금융자산의 취득,-,제 27 기,499985330,제 26 기,0,제 25 기,500000000,30,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익인식금융자산의 취득,-,제 27 기,1000000000,제 26 기,200000000,제 25 기,300000000,31,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfFinancialInstruments,금융상품의 취득,-,제 27 기,0,제 26 기,0,제 25 기,0,32,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 취득,-,제 27 기,549673210,제 26 기,0,제 25 기,499955180,33,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfLoansAndReceivables,대여금및수취채권의 취득,-,제 27 기,0,제 26 기,0,제 25 기,0,34,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기대여금의 증가,-,제 27 기,0,제 26 기,2437020552,제 25 기,844499121,35,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfOtherCurrentFinancialAssets,기타유동금융자산의 취득,-,제 27 기,0,제 26 기,0,제 25 기,0,36,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfOtherPropertyPlantAndEquipment,기타유형자산의 취득,-,제 27 기,0,제 26 기,0,제 25 기,0,37,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 취득,-,제 27 기,11267300000,제 26 기,18045500000,제 25 기,,38,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금의 증가,-,제 27 기,0,제 26 기,0,제 25 기,0,39,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,-표준계정코드 미사용-,단기금융상품의 감소,-,제 27 기,15045210000,제 26 기,28352283600,제 25 기,-20000000000,40,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,-표준계정코드 미사용-,대여금의 증가,-,제 27 기,596968300,제 26 기,95000000,제 25 기,290000000,41,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금의 수취,-,제 27 기,0,제 26 기,0,제 25 기,70000000,42,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 27 기,0,제 26 기,12880720,제 25 기,202639000,43,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,지분법적용 투자지분의 취득,-,제 27 기,0,제 26 기,0,제 25 기,0,44,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 27 기,0,제 26 기,0,제 25 기,0,45,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 27 기,3057524584,제 26 기,4664747688,제 25 기,4597168045,46,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 27 기,-2859861157,제 26 기,-3296454881,제 25 기,6640642193,47,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 27 기,930795040,제 26 기,4492316730,제 25 기,3169982200,48,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 27 기,7173008906,제 26 기,6451146497,제 25 기,8647169294,49,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsOperatingActivities,배당금지급(영업),-,제 27 기,0,제 26 기,0,제 25 기,0,50,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취(영업),-,제 27 기,0,제 26 기,0,제 25 기,0,51,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 27 기,337876248,제 26 기,-532751660,제 25 기,700329001,52,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 27 기,695495716,제 26 기,580715586,제 25 기,335980328,53,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 27 기,386869877,제 26 기,904794023,제 25 기,263247248,54,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 27 기,-10317163016,제 26 기,-15096748205,제 25 기,-4403447220,55,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 27 기,10096530,제 26 기,38192,제 25 기,-61369046,56,KRW,멕아이씨에스
+20250317000001,11011,2024,00270113,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 27 기,-2821741698,제 26 기,618884211,제 25 기,-22621277673,57,KRW,멕아이씨에스
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 51 기,519631732781,제 50 기,514997406801,제 49 기,514394694153,2,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,분기말현금및현금성자산,-,제 51 기,888448682844,제 50 기,519631732781,제 49 기,514997406801,3,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 51 기,-1498725506111,제 50 기,721136213776,제 49 기,1529717873815,8,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 51 기,84606508524,제 50 기,63659608241,제 49 기,29885452871,9,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromBonds,사채의 발행,-,제 51 기,0,제 50 기,224547710000,제 49 기,99498940000,10,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 51 기,482175000000,제 50 기,734030000000,제 49 기,1589268000000,11,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 51 기,3349001426710,제 50 기,2048165979480,제 49 기,1727367483663,12,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 51 기,0,제 50 기,92423000000,제 49 기,0,13,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 51 기,3073112424297,제 50 기,1610178867463,제 49 기,1220952096977,14,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,-표준계정코드 미사용-,유동성장기부채의 상환,-,제 51 기,2172183000000,제 50 기,519346000000,제 49 기,635579000000,15,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 51 기,873174271271,제 50 기,-31076050049,제 49 기,141541030832,16,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities,당기손익-공정가치측정금융자산의 처분,-,제 51 기,0,제 50 기,24182559,제 49 기,-30063308860,17,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 관계기업 및 공동기업의 감소",-,제 51 기,589999410000,제 50 기,167810098427,제 49 기,0,18,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,매각예정자산의 처분,-,제 51 기,0,제 50 기,0,제 49 기,15398806000,19,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromSalesOfOtherCurrentFinancialAssets,기타유동금융자산의 감소,-,제 51 기,0,제 50 기,875040000,제 49 기,2105230830,20,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromSalesOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 감소,-,제 51 기,1255544566,제 50 기,28861546159,제 49 기,411562135,21,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 51 기,103056997204,제 50 기,335813576159,제 49 기,782346301407,22,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome,기타포괄손익-공정가치 금융자산의 취득,-,제 51 기,600000000,제 50 기,0,제 49 기,0,23,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates,"종속기업, 관계기업 및 공동기업의 취득",-,제 51 기,8746490000,제 50 기,0,제 49 기,590000000000,24,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_PurchaseOfOtherCurrentFinancialAssets,기타유동금융자산의 증가,-,제 51 기,0,제 50 기,0,제 49 기,870000000,25,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_PurchaseOfOtherNonCurrentFinancialAssets,기타비유동금융자산의 증가,-,제 51 기,30623165730,제 50 기,1394072008,제 49 기,2253301905,26,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 51 기,0,제 50 기,415164597614,제 49 기,298627661569,27,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 51 기,0,제 50 기,539309000,제 49 기,21100000000,28,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 51 기,383410154045,제 50 기,1568068376,제 49 기,302756023078,29,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 51 기,164578178814,제 50 기,150009201107,제 49 기,60762620284,30,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 51 기,993735604838,제 50 기,-685384300115,제 49 기,-1670666347930,31,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업으로부터 창출된 현금흐름,-,제 51 기,1154457560998,제 50 기,-703013078407,제 49 기,-1599591100387,32,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금 수취,-,제 51 기,224425600,제 50 기,133836006288,제 49 기,176022000,33,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세 부담액,-,제 51 기,-740050854,제 50 기,2541690154,제 49 기,11143309965,34,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 51 기,200680646286,제 50 기,155936873761,제 49 기,84067440322,35,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 51 기,38994213672,제 50 기,42271335919,제 49 기,23959480744,36,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 51 기,632580065,제 50 기,-41537632,제 49 기,10155931,37,KRW,삼성중공업
+20250319000397,11011,2024,00126478,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의증감,-,제 51 기,368184369998,제 50 기,4675863612,제 49 기,592556717,38,KRW,삼성중공업

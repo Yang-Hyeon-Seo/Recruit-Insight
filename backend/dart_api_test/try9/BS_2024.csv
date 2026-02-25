@@ -1,0 +1,79 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 44 기,135813546382,제 43 기,125506249368,제 42 기,116876107827,7,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 44 기,87217986853,제 43 기,64164329228,제 42 기,55187107907,8,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 44 기,10370162876,제 43 기,10980882119,제 42 기,12222468702,9,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,-표준계정코드 미사용-,기타수취채권,-,제 44 기,818195441,제 43 기,110103140,제 42 기,123876091,10,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 44 기,33436915251,제 43 기,30897722374,제 42 기,16054843922,11,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치측정금융자산,-,제 44 기,403122516,제 43 기,422393763,제 42 기,355285375,12,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 44 기,22336498658,제 43 기,21098604400,제 42 기,25959033426,13,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정비유동자산,-,제 44 기,18424692884,제 43 기,0,제 42 기,0,14,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 44 기,1404386299,제 43 기,617826978,제 42 기,437788612,15,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 44 기,24012928,제 43 기,36796454,제 42 기,33811779,16,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 44 기,48595559529,제 43 기,61341920140,제 42 기,61688999920,17,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_InvestedAssetForPostemploymentBenefit,순확정급여자산,-,제 44 기,0,제 43 기,143777967,제 42 기,1449842933,18,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,-,제 44 기,31184551,제 43 기,31653459,제 42 기,45605041,19,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,-표준계정코드 미사용-,기타수취채권,-,제 44 기,153525916,제 43 기,22000000,제 42 기,22000000,20,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 44 기,1558244695,제 43 기,1211434024,제 42 기,1028801691,21,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 44 기,8957471877,제 43 기,27428459053,제 42 기,27474753345,22,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치측정금융자산,-,제 44 기,6538865039,제 43 기,6334032820,제 42 기,6172040349,23,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 44 기,31356267451,제 43 기,26170562817,제 42 기,25495956561,24,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 44 기,122643203451,제 43 기,114507188074,제 42 기,106450249192,26,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 44 기,122643203451,제 43 기,114507188074,제 42 기,106450249192,27,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 44 기,8588242372,제 43 기,8588242372,제 42 기,8588242372,28,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 44 기,1369605489,제 43 기,1224252581,제 42 기,1227454289,29,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 44 기,8177400000,제 43 기,8177400000,제 42 기,8177400000,30,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 44 기,104507955590,제 43 기,96517293121,제 42 기,88457152531,31,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 44 기,0,제 43 기,0,제 42 기,0,32,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채와자본총계,-,제 44 기,135813546382,제 43 기,125506249368,제 42 기,116876107827,33,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 44 기,10027695080,제 43 기,9206110082,제 42 기,6511329556,35,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtAmortisedCost,단기차입금,-,제 44 기,0,제 43 기,0,제 42 기,400000000,36,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기부채,-,제 44 기,0,제 43 기,1738600000,제 42 기,0,37,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 44 기,1636288758,제 43 기,1813376686,제 42 기,676562096,38,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_LiabilitiesIncludedInDisposalGroupsClassifiedAsHeldForSale,매각예정비유동부채,-,제 44 기,1738600000,제 43 기,0,제 42 기,0,39,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_OtherCurrentLiabilities,기타 유동부채,-,제 44 기,460758691,제 43 기,219129269,제 42 기,511531545,40,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타지급채무,-,제 44 기,6192047631,제 43 기,5435004127,제 42 기,4923235915,41,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 44 기,13170342931,제 43 기,10999061294,제 42 기,10425858635,42,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 44 기,3142647851,제 43 기,1792951212,제 42 기,3914529079,43,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_InvestedAssetForPostemploymentBenefitContraAccount,순확정급여부채,-,제 44 기,-1233014443,제 43 기,0,제 42 기,0,44,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,기타지급채무,-,제 44 기,818825552,제 43 기,660374307,제 42 기,849517132,45,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 44 기,1090807856,제 43 기,1132576905,제 42 기,1326411947,46,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentFinancialLiabilitiesAtAmortisedCost,장기차입금,-,제 44 기,0,제 43 기,0,제 42 기,1738600000,47,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Assets,자산총계,-,제 44 기,135813546382,제 43 기,125506249368,제 42 기,116876107827,7,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentAssets,유동자산,-,제 44 기,87217986853,제 43 기,64164329228,제 42 기,55187107907,8,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_ShortTermTradeReceivable,매출채권,-,제 44 기,10370162876,제 43 기,10980882119,제 42 기,12222468702,9,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,-표준계정코드 미사용-,기타수취채권,-,제 44 기,818195441,제 43 기,110103140,제 42 기,123876091,10,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CashAndCashEquivalents,현금및현금성자산,-,제 44 기,33436915251,제 43 기,30897722374,제 42 기,16054843922,11,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치측정금융자산,-,제 44 기,403122516,제 43 기,422393763,제 42 기,355285375,12,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Inventories,재고자산,-,제 44 기,22336498658,제 43 기,21098604400,제 42 기,25959033426,13,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleOrAsHeldForDistributionToOwners,매각예정비유동자산,-,제 44 기,18424692884,제 43 기,0,제 42 기,0,14,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_OtherCurrentAssets,기타유동자산,-,제 44 기,1404386299,제 43 기,617826978,제 42 기,437788612,15,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_ShorttermDepositsNotClassifiedAsCashEquivalents,단기금융상품,-,제 44 기,24012928,제 43 기,36796454,제 42 기,33811779,16,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentAssets,비유동자산,-,제 44 기,48595559529,제 43 기,61341920140,제 42 기,61688999920,17,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_InvestedAssetForPostemploymentBenefit,순확정급여자산,-,제 44 기,0,제 43 기,143777967,제 42 기,1449842933,18,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_LongTermDepositsNotClassifiedAsCashEquivalents,장기금융상품,-,제 44 기,31184551,제 43 기,31653459,제 42 기,45605041,19,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,-표준계정코드 미사용-,기타수취채권,-,제 44 기,153525916,제 43 기,22000000,제 42 기,22000000,20,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_IntangibleAssetsOtherThanGoodwill,무형자산,-,제 44 기,1558244695,제 43 기,1211434024,제 42 기,1028801691,21,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_InvestmentProperty,투자부동산,-,제 44 기,8957471877,제 43 기,27428459053,제 42 기,27474753345,22,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentFinancialAssetsAtFairValueThroughProfitOrLossDesignatedUponInitialRecognition,당기손익-공정가치측정금융자산,-,제 44 기,6538865039,제 43 기,6334032820,제 42 기,6172040349,23,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_PropertyPlantAndEquipment,유형자산,-,제 44 기,31356267451,제 43 기,26170562817,제 42 기,25495956561,24,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Equity,자본총계,-,제 44 기,122643203451,제 43 기,114507188074,제 42 기,106450249192,26,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_EquityAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 자본,-,제 44 기,122643203451,제 43 기,114507188074,제 42 기,106450249192,27,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_CapitalSurplus,자본잉여금,-,제 44 기,8588242372,제 43 기,8588242372,제 42 기,8588242372,28,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_ElementsOfOtherStockholdersEquity,기타자본구성요소,-,제 44 기,1369605489,제 43 기,1224252581,제 42 기,1227454289,29,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_IssuedCapital,자본금,-,제 44 기,8177400000,제 43 기,8177400000,제 42 기,8177400000,30,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_RetainedEarnings,이익잉여금,-,제 44 기,104507955590,제 43 기,96517293121,제 42 기,88457152531,31,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncontrollingInterests,비지배지분,-,제 44 기,0,제 43 기,0,제 42 기,0,32,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_EquityAndLiabilities,부채와자본총계,-,제 44 기,135813546382,제 43 기,125506249368,제 42 기,116876107827,33,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentLiabilities,유동부채,-,제 44 기,10027695080,제 43 기,9206110082,제 42 기,6511329556,35,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentFinancialLiabilitiesAtAmortisedCost,단기차입금,-,제 44 기,0,제 43 기,0,제 42 기,400000000,36,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentPortionOfLongtermBorrowings,유동성장기부채,-,제 44 기,0,제 43 기,1738600000,제 42 기,0,37,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_CurrentTaxLiabilities,당기법인세부채,-,제 44 기,1636288758,제 43 기,1813376686,제 42 기,676562096,38,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_LiabilitiesIncludedInDisposalGroupsClassifiedAsHeldForSale,매각예정비유동부채,-,제 44 기,1738600000,제 43 기,0,제 42 기,0,39,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_OtherCurrentLiabilities,기타 유동부채,-,제 44 기,460758691,제 43 기,219129269,제 42 기,511531545,40,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_TradeAndOtherCurrentPayables,매입채무 및 기타지급채무,-,제 44 기,6192047631,제 43 기,5435004127,제 42 기,4923235915,41,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_Liabilities,부채총계,-,제 44 기,13170342931,제 43 기,10999061294,제 42 기,10425858635,42,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentLiabilities,비유동부채,-,제 44 기,3142647851,제 43 기,1792951212,제 42 기,3914529079,43,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_InvestedAssetForPostemploymentBenefitContraAccount,순확정급여부채,-,제 44 기,-1233014443,제 43 기,0,제 42 기,0,44,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,dart_LongTermTradeAndOtherNonCurrentPayables,기타지급채무,-,제 44 기,818825552,제 43 기,660374307,제 42 기,849517132,45,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_DeferredTaxLiabilities,이연법인세부채,-,제 44 기,1090807856,제 43 기,1132576905,제 42 기,1326411947,46,KRW,HRS
+20250318000433,11011,2024,00230911,BS,재무상태표,ifrs-full_NoncurrentFinancialLiabilitiesAtAmortisedCost,장기차입금,-,제 44 기,0,제 43 기,0,제 42 기,1738600000,47,KRW,HRS

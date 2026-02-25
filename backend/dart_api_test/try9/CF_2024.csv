@@ -1,0 +1,109 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 44 기,30897722374,제 43 기,16054843922,제 42 기,13696908565,2,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 44 기,33436915251,제 43 기,30897722374,제 42 기,16054843922,3,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 44 기,-5139963381,제 43 기,-3908311680,제 42 기,-9366723256,8,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 감소,-,제 44 기,345433881,제 43 기,311958680,제 42 기,170370256,9,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 44 기,0,제 43 기,400000000,제 42 기,6000000000,10,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 44 기,4794529500,제 43 기,3196353000,제 42 기,3196353000,11,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 44 기,-6644692317,제 43 기,-1670718495,제 42 기,-3116116360,12,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 감소,-,제 44 기,81331529,제 43 기,518376820,제 42 기,89810997,13,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,-,제 44 기,2259048,제 43 기,0,제 42 기,0,14,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 44 기,38067876,제 43 기,38495290,제 42 기,4331770,15,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 증가,-,제 44 기,158384676,제 43 기,127941805,제 42 기,93377146,16,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,-,제 44 기,85728000,제 43 기,0,제 42 기,24860660,17,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 증가,-,제 44 기,19931354,제 43 기,17125138,제 42 기,18667044,18,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 44 기,4884088,제 43 기,8802329,제 42 기,3893638,19,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 44 기,22883871,제 43 기,82525070,제 42 기,7114766,20,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 44 기,369030070,제 43 기,203073320,제 42 기,501483608,21,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 44 기,6151276453,제 43 기,1953173083,제 42 기,2575091797,22,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 44 기,14172642316,제 43 기,20354855068,제 42 기,14872737197,23,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 44 기,-2849230473,제 43 기,5367073372,제 42 기,4595145194,24,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 감소(증가),-,제 44 기,-2244444177,제 43 기,-89299260,제 42 기,-1914653180,25,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의 지급,-,제 44 기,-394548620,제 43 기,-553207463,제 42 기,-705238130,26,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타수취채권의 감소(증가),-,제 44 기,-695564348,제 43 기,7786048,제 42 기,170289891,27,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타지급채무의 증가(감소),-,제 44 기,663277485,제 43 기,106741941,제 42 기,282598024,28,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 44 기,-1328703341,제 43 기,4664713767,제 42 기,6476802783,29,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 감소(증가),-,제 44 기,175248274,제 43 기,-179659079,제 42 기,249706120,30,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 44 기,732456086,제 43 기,1236489612,제 42 기,2230938968,31,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 44 기,238149159,제 43 기,-292989906,제 42 기,264632034,32,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 44 기,4899009,제 43 기,466497712,제 42 기,-2459931316,33,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,비현금비용(수익)조정,-,제 44 기,4251316421,제 43 기,4087448531,제 42 기,5181571526,34,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비(환입) 조정,-,제 44 기,-8267446,제 43 기,-31849453,제 42 기,-71055148,35,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 44 기,21371872,제 43 기,76289311,제 42 기,15098766,36,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익 조정,-,제 44 기,70283250,제 43 기,68461882,제 42 기,-20866328,37,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가이익 조정,-,제 44 기,58072239,제 43 기,555721493,제 42 기,-644398506,38,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfPropertyPlantAndEquipment,유형자산손상차손 조정,-,제 44 기,141745847,제 43 기,26891205,제 42 기,0,39,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용 조정,-,제 44 기,15423974,제 43 기,18532976,제 42 기,85818653,40,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익 조정,-,제 44 기,429503,제 43 기,3551990,제 42 기,180370,41,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 44 기,1076912942,제 43 기,873899368,제 42 기,925047992,42,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실 조정,-,제 44 기,119578800,제 43 기,198807538,제 42 기,94734074,43,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,당기손익-공정가치측정금융자산처분이익 조정,-,제 44 기,50435586,제 43 기,63814381,제 42 기,-10286365,44,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타비유동자산 손상차손환입,-,제 44 기,1030000000,제 43 기,0,제 42 기,0,45,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,투자부동산 감가상각비에 대한 조정,-,제 44 기,46294292,제 43 기,46294292,제 42 기,46294292,46,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타장기종업원급여,-,제 44 기,43218889,제 43 기,19562007,제 42 기,25541809,47,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 44 기,113883419,제 43 기,99334830,제 42 기,58862683,48,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 44 기,22306699,제 43 기,20440987,제 42 기,17555676,49,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 44 기,1307819117,제 43 기,1346940457,제 42 기,1138513525,50,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용 조정,-,제 44 기,3580058533,제 43 기,2922863999,제 42 기,2443774084,51,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 44 기,749299357,제 43 기,487760958,제 42 기,126062811,52,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 44 기,113883419,제 43 기,99334830,제 42 기,58862683,53,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부,-,제 44 기,3184691206,제 43 기,1755277936,제 42 기,5035388588,54,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 44 기,0,제 43 기,38044083,제 42 기,86646043,55,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 44 기,731524225,제 43 기,487760958,제 42 기,126062811,56,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 44 기,15109839930,제 43 기,12106559396,제 42 기,10033129614,57,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 44 기,151206259,제 43 기,67053559,제 42 기,-31962224,58,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 44 기,2539192877,제 43 기,14842878452,제 42 기,2357935357,59,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 44 기,30897722374,제 43 기,16054843922,제 42 기,13696908565,2,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 44 기,33436915251,제 43 기,30897722374,제 42 기,16054843922,3,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 44 기,-5139963381,제 43 기,-3908311680,제 42 기,-9366723256,8,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 감소,-,제 44 기,345433881,제 43 기,311958680,제 42 기,170370256,9,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 44 기,0,제 43 기,400000000,제 42 기,6000000000,10,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금지급,-,제 44 기,4794529500,제 43 기,3196353000,제 42 기,3196353000,11,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 44 기,-6644692317,제 43 기,-1670718495,제 42 기,-3116116360,12,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_ProceedsFromSalesOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 감소,-,제 44 기,81331529,제 43 기,518376820,제 42 기,89810997,13,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_ProceedsFromSalesOfLoansAndReceivables,기타수취채권의 감소,-,제 44 기,2259048,제 43 기,0,제 42 기,0,14,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 44 기,38067876,제 43 기,38495290,제 42 기,4331770,15,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익-공정가치측정금융자산의 증가,-,제 44 기,158384676,제 43 기,127941805,제 42 기,93377146,16,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfLoansAndReceivables,기타수취채권의 증가,-,제 44 기,85728000,제 43 기,0,제 42 기,24860660,17,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기금융상품의 증가,-,제 44 기,19931354,제 43 기,17125138,제 42 기,18667044,18,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 44 기,4884088,제 43 기,8802329,제 42 기,3893638,19,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 44 기,22883871,제 43 기,82525070,제 42 기,7114766,20,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 44 기,369030070,제 43 기,203073320,제 42 기,501483608,21,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 44 기,6151276453,제 43 기,1953173083,제 42 기,2575091797,22,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 44 기,14172642316,제 43 기,20354855068,제 42 기,14872737197,23,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 44 기,-2849230473,제 43 기,5367073372,제 42 기,4595145194,24,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의 감소(증가),-,제 44 기,-2244444177,제 43 기,-89299260,제 42 기,-1914653180,25,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations,퇴직금의 지급,-,제 44 기,-394548620,제 43 기,-553207463,제 42 기,-705238130,26,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타수취채권의 감소(증가),-,제 44 기,-695564348,제 43 기,7786048,제 42 기,170289891,27,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타지급채무의 증가(감소),-,제 44 기,663277485,제 43 기,106741941,제 42 기,282598024,28,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 44 기,-1328703341,제 43 기,4664713767,제 42 기,6476802783,29,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 감소(증가),-,제 44 기,175248274,제 43 기,-179659079,제 42 기,249706120,30,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAccountReceivable,매출채권의 감소(증가),-,제 44 기,732456086,제 43 기,1236489612,제 42 기,2230938968,31,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 44 기,238149159,제 43 기,-292989906,제 42 기,264632034,32,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAccountPayable,매입채무의 증가(감소),-,제 44 기,4899009,제 43 기,466497712,제 42 기,-2459931316,33,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,비현금비용(수익)조정,-,제 44 기,4251316421,제 43 기,4087448531,제 42 기,5181571526,34,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비(환입) 조정,-,제 44 기,-8267446,제 43 기,-31849453,제 42 기,-71055148,35,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 44 기,21371872,제 43 기,76289311,제 42 기,15098766,36,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익 조정,-,제 44 기,70283250,제 43 기,68461882,제 42 기,-20866328,37,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForGainsOnEvaluationOfFairValueFinancialAssets,당기손익-공정가치측정금융자산평가이익 조정,-,제 44 기,58072239,제 43 기,555721493,제 42 기,-644398506,38,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfPropertyPlantAndEquipment,유형자산손상차손 조정,-,제 44 기,141745847,제 43 기,26891205,제 42 기,0,39,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForInterestExpenses,이자비용 조정,-,제 44 기,15423974,제 43 기,18532976,제 42 기,85818653,40,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForMiscellaneousIncome,잡이익 조정,-,제 44 기,429503,제 43 기,3551990,제 42 기,180370,41,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 44 기,1076912942,제 43 기,873899368,제 42 기,925047992,42,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실 조정,-,제 44 기,119578800,제 43 기,198807538,제 42 기,94734074,43,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,당기손익-공정가치측정금융자산처분이익 조정,-,제 44 기,50435586,제 43 기,63814381,제 42 기,-10286365,44,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타비유동자산 손상차손환입,-,제 44 기,1030000000,제 43 기,0,제 42 기,0,45,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,투자부동산 감가상각비에 대한 조정,-,제 44 기,46294292,제 43 기,46294292,제 42 기,46294292,46,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,기타장기종업원급여,-,제 44 기,43218889,제 43 기,19562007,제 42 기,25541809,47,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,-표준계정코드 미사용-,배당금수익,-,제 44 기,113883419,제 43 기,99334830,제 42 기,58862683,48,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 44 기,22306699,제 43 기,20440987,제 42 기,17555676,49,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 44 기,1307819117,제 43 기,1346940457,제 42 기,1138513525,50,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용 조정,-,제 44 기,3580058533,제 43 기,2922863999,제 42 기,2443774084,51,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 44 기,749299357,제 43 기,487760958,제 42 기,126062811,52,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 44 기,113883419,제 43 기,99334830,제 42 기,58862683,53,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부,-,제 44 기,3184691206,제 43 기,1755277936,제 42 기,5035388588,54,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 44 기,0,제 43 기,38044083,제 42 기,86646043,55,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 44 기,731524225,제 43 기,487760958,제 42 기,126062811,56,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 44 기,15109839930,제 43 기,12106559396,제 42 기,10033129614,57,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 44 기,151206259,제 43 기,67053559,제 42 기,-31962224,58,KRW,HRS
+20250318000433,11011,2024,00230911,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 44 기,2539192877,제 43 기,14842878452,제 42 기,2357935357,59,KRW,HRS

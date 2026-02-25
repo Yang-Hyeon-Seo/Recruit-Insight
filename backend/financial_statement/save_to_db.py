@@ -54,7 +54,7 @@ def get_data(corp, bsns_year, reprt_code):
 
     # API 호출하기
     crtfc_key = DART_API_KEY
-    fs_div = "OFS"  # OFS : 재무제표
+    fs_div = "OFS"  # OFS : 개별 재무제표
     corp_code = corp.corp_code
 
     response = call_dart_fnltt_singl_acnt_all(crtfc_key, bsns_year, reprt_code, fs_div, corp_code)

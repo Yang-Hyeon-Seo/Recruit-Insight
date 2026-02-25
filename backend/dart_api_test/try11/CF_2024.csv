@@ -1,0 +1,129 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 39 기,7566070325,제 38 기,4491882315,제 37 기,5473915154,2,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 39 기,1369276402,제 38 기,7566070325,제 37 기,4491882315,3,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 39 기,-3510311362,제 38 기,527401436,제 37 기,-8257752560,8,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의상환,-,제 39 기,162558799,제 38 기,147012420,제 37 기,196753260,9,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 39 기,,제 38 기,2633987807,제 37 기,320588800,10,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 39 기,3000000000,제 38 기,10600000000,제 37 기,1251380000,11,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 39 기,,제 38 기,1100000000,제 37 기,,12,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 감소,-,제 39 기,,제 38 기,1688764,제 37 기,,13,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 39 기,,제 38 기,447609468,제 37 기,,14,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 39 기,5300000000,제 38 기,9575040000,제 37 기,8219228000,15,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 상환,-,제 39 기,1047752563,제 38 기,1435235719,제 37 기,1413740100,16,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 39 기,-1005467760,제 38 기,-11394748924,제 37 기,-12545585209,17,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 39 기,227292000,제 38 기,,제 37 기,,18,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 39 기,266000000,제 38 기,,제 37 기,,19,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 39 기,,제 38 기,792900000,제 37 기,53282000,20,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 39 기,,제 38 기,,제 37 기,2280460955,21,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 처분,-,제 39 기,4468926000,제 38 기,,제 37 기,-78670133,22,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익인식금융자산의 취득,-,제 39 기,317611988,제 38 기,117873120,제 37 기,,23,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,상각후원가 측정 금융자산의 감소,-,제 39 기,33850000000,제 38 기,37050000000,제 37 기,2167303000,24,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,상각후원가 측정 금융자산의 증가,-,제 39 기,33850000000,제 38 기,41550000000,제 37 기,5850000000,25,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,자산취득미지급금의 감소,-,제 39 기,,제 38 기,,제 37 기,-1034937066,26,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_OtherCashPaymentsToAcquireInterestsInJointVenturesClassifiedAsInvestingActivities,공동기업 투자지분의 취득에 따른 기타현금유출,-,제 39 기,,제 38 기,985120000,제 37 기,,27,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 39 기,839937623,제 38 기,48888673,제 37 기,36413354,28,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 39 기,928000000,제 38 기,834490000,제 37 기,372100000,29,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 39 기,5562011395,제 38 기,4213254477,제 37 기,5079851409,30,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 39 기,-1460977678,제 38 기,13858523472,제 37 기,19879795203,31,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,순운전자본의 변동,-,제 39 기,-15851358778,제 38 기,-772183714,제 37 기,2887748536,32,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInDepositsProvided,보증금의 감소(증가),-,제 39 기,3000000,제 38 기,-16664000,제 37 기,,33,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의공정가치의 감소(증가),-,제 39 기,252974675,제 38 기,-42498426,제 37 기,354070508,34,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermTradeReceivable,장기매출채권의 감소(증가),-,제 39 기,,제 38 기,-3071000,제 37 기,,35,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherNonCurrentNonFinancialAssets,기타비유동비금융자산의 감소(증가),-,제 39 기,,제 38 기,,제 37 기,4883970,36,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInOtherNonCurrentLiabilities,기타비유동부채의 증가(감소),-,제 39 기,1957659772,제 38 기,-1914037616,제 37 기,-1694891432,37,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInNonCurrentProvisions,비유동충당부채의 증가(감소),-,제 39 기,-12646955,제 38 기,2817376369,제 37 기,-21392632,38,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,퇴직금의 지급,-,제 39 기,-1237505529,제 38 기,-628927694,제 37 기,-705997855,39,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 39 기,-276584186,제 38 기,-340622174,제 37 기,-561500868,40,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 감소(증가) 조정,-,제 39 기,-3326153835,제 38 기,632062902,제 37 기,2006686761,41,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAndOtherReceivables,매출채권 및 기타채권의 감소(증가) 조정,-,제 39 기,-11143124741,제 38 기,2730256879,제 37 기,936742018,42,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 39 기,2875164290,제 38 기,79281995,제 37 기,34870423,43,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAndOtherPayables,매입채무 및 기타채무의 증가(감소),-,제 39 기,-4944142269,제 38 기,-4085340949,제 37 기,2534277643,44,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 39 기,18368498690,제 38 기,9283386064,제 37 기,8349231755,45,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비 조정,-,제 39 기,-32859811,제 38 기,38353899,제 37 기,198194653,46,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 39 기,199925210,제 38 기,15383291,제 37 기,20798721,47,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익 조정,-,제 39 기,885786731,제 38 기,1491948263,제 37 기,1201902557,48,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfInvestmentsInAssociates,종속기업/관계기업/공동기업투자처분이익,-,제 39 기,,제 38 기,,제 37 기,3216059318,49,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates,종속기업/관계기업/공동기업투자손상차손,-,제 39 기,,제 38 기,985120000,제 37 기,,50,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsofInvestmentsInAssociates,종속기업/관계기업/공동기업투자처분손실,-,제 39 기,7420571543,제 38 기,,제 37 기,,51,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실 조정,-,제 39 기,30576534,제 38 기,284345120,제 37 기,159917667,52,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실 조정,-,제 39 기,2907943857,제 38 기,262129798,제 37 기,102826921,53,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실 조정,-,제 39 기,2918261,제 38 기,,제 37 기,,54,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비 조정,-,제 39 기,-96713920,제 38 기,-999919751,제 37 기,2559113709,55,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 39 기,1200129041,제 38 기,1044741984,제 37 기,949126908,56,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실 조정,-,제 39 기,-98563972,제 38 기,16477275,제 37 기,56469412,57,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,공동기업투자이익,-,제 39 기,201451704,제 38 기,-490148456,제 37 기,129380081,58,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 39 기,155178172,제 38 기,152352422,제 37 기,182310176,59,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 39 기,5029576320,제 38 기,5168870526,제 37 기,5476095541,60,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForFinanceCosts,금융원가의 조정,-,제 39 기,2666879722,제 38 기,2462091686,제 37 기,2452612683,61,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용 조정,-,제 39 기,1552645973,제 38 기,1454322138,제 37 기,918308875,62,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 39 기,1082619385,제 38 기,568315935,제 37 기,137604113,63,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 39 기,1026886827,제 38 기,2803941504,제 37 기,1382219400,64,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 39 기,2632651333,제 38 기,2175855732,제 37 기,2356806884,65,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 39 기,833735830,제 38 기,524952173,제 37 기,12256180,66,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 39 기,-1152315260,제 38 기,9802166185,제 37 기,12369585016,67,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 39 기,-220037123,제 38 기,83012026,제 37 기,-58490273,68,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 39 기,-5976756800,제 38 기,2991175984,제 37 기,-923542566,69,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 39 기,7566070325,제 38 기,4491882315,제 37 기,5473915154,2,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 39 기,1369276402,제 38 기,7566070325,제 37 기,4491882315,3,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 39 기,-3510311362,제 38 기,527401436,제 37 기,-8257752560,8,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의상환,-,제 39 기,162558799,제 38 기,147012420,제 37 기,196753260,9,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 증가,-,제 39 기,,제 38 기,2633987807,제 37 기,320588800,10,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 증가,-,제 39 기,3000000000,제 38 기,10600000000,제 37 기,1251380000,11,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 39 기,,제 38 기,1100000000,제 37 기,,12,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 감소,-,제 39 기,,제 38 기,1688764,제 37 기,,13,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 39 기,,제 38 기,447609468,제 37 기,,14,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 39 기,5300000000,제 38 기,9575040000,제 37 기,8219228000,15,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,유동성장기차입금의 상환,-,제 39 기,1047752563,제 38 기,1435235719,제 37 기,1413740100,16,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 39 기,-1005467760,제 38 기,-11394748924,제 37 기,-12545585209,17,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 39 기,227292000,제 38 기,,제 37 기,,18,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 39 기,266000000,제 38 기,,제 37 기,,19,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 39 기,,제 38 기,792900000,제 37 기,53282000,20,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 39 기,,제 38 기,,제 37 기,2280460955,21,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 처분,-,제 39 기,4468926000,제 38 기,,제 37 기,-78670133,22,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_PurchaseOfFairValueFinancialAsset,당기손익인식금융자산의 취득,-,제 39 기,317611988,제 38 기,117873120,제 37 기,,23,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,상각후원가 측정 금융자산의 감소,-,제 39 기,33850000000,제 38 기,37050000000,제 37 기,2167303000,24,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,상각후원가 측정 금융자산의 증가,-,제 39 기,33850000000,제 38 기,41550000000,제 37 기,5850000000,25,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,자산취득미지급금의 감소,-,제 39 기,,제 38 기,,제 37 기,-1034937066,26,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_OtherCashPaymentsToAcquireInterestsInJointVenturesClassifiedAsInvestingActivities,공동기업 투자지분의 취득에 따른 기타현금유출,-,제 39 기,,제 38 기,985120000,제 37 기,,27,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 39 기,839937623,제 38 기,48888673,제 37 기,36413354,28,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 39 기,928000000,제 38 기,834490000,제 37 기,372100000,29,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 39 기,5562011395,제 38 기,4213254477,제 37 기,5079851409,30,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 39 기,-1460977678,제 38 기,13858523472,제 37 기,19879795203,31,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,순운전자본의 변동,-,제 39 기,-15851358778,제 38 기,-772183714,제 37 기,2887748536,32,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInDepositsProvided,보증금의 감소(증가),-,제 39 기,3000000,제 38 기,-16664000,제 37 기,,33,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets,사외적립자산의공정가치의 감소(증가),-,제 39 기,252974675,제 38 기,-42498426,제 37 기,354070508,34,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInLongTermTradeReceivable,장기매출채권의 감소(증가),-,제 39 기,,제 38 기,-3071000,제 37 기,,35,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherNonCurrentNonFinancialAssets,기타비유동비금융자산의 감소(증가),-,제 39 기,,제 38 기,,제 37 기,4883970,36,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInOtherNonCurrentLiabilities,기타비유동부채의 증가(감소),-,제 39 기,1957659772,제 38 기,-1914037616,제 37 기,-1694891432,37,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInNonCurrentProvisions,비유동충당부채의 증가(감소),-,제 39 기,-12646955,제 38 기,2817376369,제 37 기,-21392632,38,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,퇴직금의 지급,-,제 39 기,-1237505529,제 38 기,-628927694,제 37 기,-705997855,39,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInInventories,재고자산의 감소(증가),-,제 39 기,-276584186,제 38 기,-340622174,제 37 기,-561500868,40,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInOtherCurrentAssets,기타유동자산의 감소(증가) 조정,-,제 39 기,-3326153835,제 38 기,632062902,제 37 기,2006686761,41,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInTradeAndOtherReceivables,매출채권 및 기타채권의 감소(증가) 조정,-,제 39 기,-11143124741,제 38 기,2730256879,제 37 기,936742018,42,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInOtherCurrentLiabilities,기타유동부채의 증가(감소),-,제 39 기,2875164290,제 38 기,79281995,제 37 기,34870423,43,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForIncreaseDecreaseInTradeAndOtherPayables,매입채무 및 기타채무의 증가(감소),-,제 39 기,-4944142269,제 38 기,-4085340949,제 37 기,2534277643,44,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,당기순이익조정을 위한 가감,-,제 39 기,18368498690,제 38 기,9283386064,제 37 기,8349231755,45,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForBadDebtExpenses,대손상각비 조정,-,제 39 기,-32859811,제 38 기,38353899,제 37 기,198194653,46,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForGainOnDispositionOfTangibleAssets,유형자산처분이익 조정,-,제 39 기,199925210,제 38 기,15383291,제 37 기,20798721,47,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익 조정,-,제 39 기,885786731,제 38 기,1491948263,제 37 기,1201902557,48,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfInvestmentsInAssociates,종속기업/관계기업/공동기업투자처분이익,-,제 39 기,,제 38 기,,제 37 기,3216059318,49,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates,종속기업/관계기업/공동기업투자손상차손,-,제 39 기,,제 38 기,985120000,제 37 기,,50,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForLossesOnDisposalsofInvestmentsInAssociates,종속기업/관계기업/공동기업투자처분손실,-,제 39 기,7420571543,제 38 기,,제 37 기,,51,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForLossesOnDispositionOfPropertyPlantAndEquipment,유형자산처분손실 조정,-,제 39 기,30576534,제 38 기,284345120,제 37 기,159917667,52,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외화환산손실 조정,-,제 39 기,2907943857,제 38 기,262129798,제 37 기,102826921,53,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForMiscellaneousLosses,잡손실 조정,-,제 39 기,2918261,제 38 기,,제 37 기,,54,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForOtherBadDebtExpenses,기타의 대손상각비 조정,-,제 39 기,-96713920,제 38 기,-999919751,제 37 기,2559113709,55,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForProvisionForSeveranceIndemnities,퇴직급여 조정,-,제 39 기,1200129041,제 38 기,1044741984,제 37 기,949126908,56,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,dart_AdjustmentsForWritedownsOfInventories,재고자산평가손실 조정,-,제 39 기,-98563972,제 38 기,16477275,제 37 기,56469412,57,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,-표준계정코드 미사용-,공동기업투자이익,-,제 39 기,201451704,제 38 기,-490148456,제 37 기,129380081,58,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비에 대한 조정,-,제 39 기,155178172,제 38 기,152352422,제 37 기,182310176,59,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비에 대한 조정,-,제 39 기,5029576320,제 38 기,5168870526,제 37 기,5476095541,60,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForFinanceCosts,금융원가의 조정,-,제 39 기,2666879722,제 38 기,2462091686,제 37 기,2452612683,61,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용 조정,-,제 39 기,1552645973,제 38 기,1454322138,제 37 기,918308875,62,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익에 대한 조정,-,제 39 기,1082619385,제 38 기,568315935,제 37 기,137604113,63,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 39 기,1026886827,제 38 기,2803941504,제 37 기,1382219400,64,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 39 기,2632651333,제 38 기,2175855732,제 37 기,2356806884,65,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 39 기,833735830,제 38 기,524952173,제 37 기,12256180,66,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 39 기,-1152315260,제 38 기,9802166185,제 37 기,12369585016,67,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 39 기,-220037123,제 38 기,83012026,제 37 기,-58490273,68,KRW,세동
+20250321001029,11011,2024,00133663,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 39 기,-5976756800,제 38 기,2991175984,제 37 기,-923542566,69,KRW,세동

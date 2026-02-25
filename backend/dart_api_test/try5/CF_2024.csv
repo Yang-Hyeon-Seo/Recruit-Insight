@@ -1,0 +1,206 @@
+﻿rcept_no,reprt_code,bsns_year,corp_code,sj_div,sj_nm,account_id,account_nm,account_detail,thstrm_nm,thstrm_amount,frmtrm_nm,frmtrm_amount,bfefrmtrm_nm,bfefrmtrm_amount,ord,currency,corp_name
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 70 기,13196276811,제 69 기,21795906348,제 68 기,53557491531,2,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 70 기,420374083,제 69 기,13196276811,제 68 기,21795906348,3,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,법인세의 환급(납부),-,제 70 기,-262553177,제 69 기,1802582646,제 68 기,-5326792626,8,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 70 기,-27479292635,제 69 기,-43939450985,제 68 기,24345289959,9,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_AcquisitionOfTreasuryShares,자기주식의 취득,-,제 70 기,,제 69 기,15881016,제 68 기,,10,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 감소,-,제 70 기,15090000,제 69 기,,제 68 기,1468730000,11,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_IncreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 수령,-,제 70 기,1218000000,제 69 기,1200000000,제 68 기,2329440000,12,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PaymentForBondIssueExpenses,사채발행비 지급,-,제 70 기,,제 69 기,28120000,제 68 기,54580000,13,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 70 기,5254271820,제 69 기,3203614030,제 68 기,2620069296,14,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromBonds,회사채의 발행,-,제 70 기,,제 69 기,9000000000,제 68 기,17000000000,15,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromConvertibleBonds,당기손익공정가치측정금융부채의 발행,-,제 70 기,13500000000,제 69 기,,제 68 기,40000000000,16,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 70 기,19659650000,제 69 기,10120000000,제 68 기,41050132288,17,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 70 기,299969031,제 69 기,68500000000,제 68 기,40002359401,18,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_RepaymentsOfBonds,사채의 상환,-,제 70 기,10000000000,제 69 기,23000000000,제 68 기,13250000000,19,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,당기손익공정가치측정금융부채의 상환,-,제 70 기,11085371996,제 69 기,45604957076,제 68 기,24483100000,20,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 70 기,20995118140,제 69 기,50320000000,제 68 기,59562359401,21,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,주식발행비의 지급,-,제 70 기,3440080,제 69 기,32253600,제 68 기,3674106,22,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,지배기업 유상증자,-,제 70 기,,제 69 기,6999997974,제 68 기,,23,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsFinancingActivities,이자지급,-,제 70 기,8143013595,제 69 기,9557148502,제 68 기,7038573372,24,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기부채의 상환,-,제 70 기,6660606035,제 69 기,7997474735,제 68 기,7555555555,25,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동현금흐름,-,제 70 기,-1682771886,제 69 기,914630829,제 68 기,-80613149632,26,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInAssociates,관계기업에 대한 투자자산의 처분,-,제 70 기,1000000000,제 69 기,,제 68 기,2575002144,27,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromSalesOfLongTermLoansAndReceivables,장기대여금 및 수취채권의 회수,-,제 70 기,,제 69 기,1000000000,제 68 기,,28,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromSalesOfNonCurrentFairValueFinancialAsset,당기손익공정가치금융자산의 처분,-,제 70 기,391102491,제 69 기,,제 68 기,4963256642,29,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기예치금의 회수,-,제 70 기,3271000000,제 69 기,,제 68 기,8000000000,30,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermLoansAndReceivables,단기대여금 및 기타채권의 회수,-,제 70 기,1000000000,제 69 기,14500000000,제 68 기,45700000000,31,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PurchaseOfInvestmentsInAssociates,관계기업에 대한 투자자산의 취득,-,제 70 기,,제 69 기,,제 68 기,9290015300,32,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PurchaseOfLongTermFinancialInstruments,장기예치금의 취득,-,제 70 기,1216299000,제 69 기,449588000,제 68 기,1000000000,33,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PurchaseOfNonCurrentFairValueFinancialAsset,비유동당기손익인식금융자산의 취득,-,제 70 기,629839519,제 69 기,177724946,제 68 기,177007950,34,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기예치금의 취득,-,제 70 기,4471000000,제 69 기,1200000000,제 68 기,10071000000,35,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_PurchaseOfShortTermLoansAndReceivables,단기대여금및수취채권의 취득,-,제 70 기,209145152,제 69 기,47949625684,제 68 기,84954899648,36,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,영업양수도로 인한 현금유입,-,제 70 기,872353111,제 69 기,,제 68 기,,37,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,상각후원가측정금융자산의 취득,-,제 70 기,,제 69 기,,제 68 기,9990000000,38,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,상각후원가측정금융자산의 처분,-,제 70 기,,제 69 기,,제 68 기,11098890001,39,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,보증금의 회수,-,제 70 기,6830500000,제 69 기,2047065000,제 68 기,,40,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,합병으로 인한 현금유입,-,제 70 기,,제 69 기,49863102,제 68 기,,41,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,파생상품부채의 처분,-,제 70 기,,제 69 기,,제 68 기,14203621815,42,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities,종속기업투자주식의 처분(투자),-,제 70 기,,제 69 기,8932710689,제 68 기,2137000000,43,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsInvestingActivities,배당금의 수령,-,제 70 기,,제 69 기,728649600,제 68 기,560649600,44,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsInvestingActivities,이자수취,-,제 70 기,206733728,제 69 기,308032405,제 68 기,2328980781,45,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_OtherCashPaymentsToAcquireEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,기타포괄손익공정가치금융자산의 취득,-,제 70 기,,제 69 기,5906000000,제 68 기,231000000,46,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_OtherCashReceiptsFromSalesOfEquityOrDebtInstrumentsOfOtherEntitiesClassifiedAsInvestingActivities,기타포괄손익공정가치금융자산의 처분,-,제 70 기,2176065020,제 69 기,54370256153,제 68 기,,47,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities,정부보조금 수령,-,제 70 기,110534584,제 69 기,198323075,제 68 기,39558557,48,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 70 기,3729500000,제 69 기,,제 68 기,,49,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 70 기,,제 69 기,900926000,제 68 기,,50,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 70 기,770328317,제 69 기,,제 68 기,,51,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 70 기,628333663,제 69 기,85821211,제 68 기,191990000,52,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod,지분법적용 투자지분의 취득,-,제 70 기,,제 69 기,3106899484,제 68 기,21306420575,53,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_PurchaseOfInvestmentProperty,투자부동산의 취득,-,제 70 기,7697972000,제 69 기,20000000000,제 68 기,2954690760,54,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 70 기,7188299803,제 69 기,3245535870,제 68 기,3645841309,55,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 70 기,16386161793,제 69 기,34425190619,제 68 기,24506274490,56,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로인한 자산ㆍ부채의 변동,-,제 70 기,-30002801702,제 69 기,-13799882895,제 68 기,-2922167397,57,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,-표준계정코드 미사용-,영업에서 창출된 현금흐름,-,제 70 기,16648714970,제 69 기,32622607973,제 68 기,29833067116,58,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,수익ㆍ비용의 조정,-,제 70 기,41437928494,제 69 기,123799526006,제 68 기,62187470960,59,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 70 기,5213588178,제 69 기,-77377035138,제 68 기,-29432236447,60,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 70 기,-12775902728,제 69 기,-8599629537,제 68 기,-31761585183,61,KRW,대유에이텍
+20250317000599,11011,2024,00149804,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 증가(감소),-,제 70 기,-12775902728,제 69 기,-8599629537,제 68 기,-31761585183,62,KRW,대유에이텍
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금및현금성자산,-,제 10 기,18896902036,제 9 기,24885800503,제 8 기,16295957001,2,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말의 현금및현금성자산,-,제 10 기,3892339071,제 9 기,18896902036,제 8 기,24885800503,3,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 10 기,2266967361,제 9 기,-545657504,제 8 기,15696969610,8,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_DecreaseInGuaranteeDepositsAsFinancialActivities,임대보증금의 상환,-,제 10 기,40000000,제 9 기,,제 8 기,,9,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 10 기,295598573,제 9 기,266007504,제 8 기,224156650,10,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromConvertibleBonds,전환사채의 발행,-,제 10 기,5510000000,제 9 기,,제 8 기,19866196260,11,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromExerciseOfShareOptions,주식선택권 행사,-,제 10 기,80250000,제 9 기,220350000,제 8 기,516930000,12,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 10 기,5900000000,제 9 기,,제 8 기,,13,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 상환,-,제 10 기,18100000000,제 9 기,,제 8 기,,14,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 10 기,,제 9 기,,제 8 기,500000000,15,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 10 기,3300000000,제 9 기,500000000,제 8 기,3600000000,16,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_ProceedsFromIssuingShares,유상증자,-,제 10 기,12512315934,제 9 기,,제 8 기,,17,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities,유동성장기차입금의 상환,-,제 10 기,,제 9 기,,제 8 기,362000000,18,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 10 기,-9127224009,제 9 기,3291614613,제 8 기,387976409,19,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 10 기,85453040,제 9 기,,제 8 기,26700000,20,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_DecreaseInLoans,대여금의 감소,-,제 10 기,1750000000,제 9 기,,제 8 기,,21,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 10 기,60018000,제 9 기,3000000,제 8 기,60435040,22,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_IncreaseInLoans,대여금의 증가,-,제 10 기,3940518963,제 9 기,750000000,제 8 기,,23,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromSalesOfCurrentFairValueFinancialAsset,당기손익-공정가치측정금융자산 처분,-,제 10 기,4596937223,제 9 기,3476973736,제 8 기,5033095508,24,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 처분,-,제 10 기,,제 9 기,13310000,제 8 기,,25,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,기타보증금의 감소,-,제 10 기,428727273,제 9 기,,제 8 기,19090000,26,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_ProceedsFromSalesOfShortTermFinancialInstruments,단기금융상품의 감소,-,제 10 기,52593830,제 9 기,11121387027,제 8 기,8013914860,27,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 취득,-,제 10 기,9222695000,제 9 기,27610000,제 8 기,300000000,28,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_PurchaseOfNonCurrentFairValueFinancialAsset,당기손익-공정가치측정금융자산의 취득,-,제 10 기,3097221590,제 9 기,8613103097,제 8 기,1105296440,29,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,기타보증금의 증가,-,제 10 기,,제 9 기,100000,제 8 기,15364000,30,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_PurchaseOfShortTermFinancialInstruments,단기금융상품의 증가,-,제 10 기,52917531,제 9 기,1100689095,제 8 기,10023983208,31,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInvestmentProperty,투자부동산의 처분,-,제 10 기,428000000,제 9 기,,제 8 기,,32,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 10 기,21484945,제 9 기,,제 8 기,,33,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 10 기,91418021,제 9 기,439187595,제 8 기,196220871,34,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 10 기,25631215,제 9 기,386366363,제 8 기,1003524400,35,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 10 기,-8146907255,제 9 기,-8755716280,제 8 기,-7534054026,36,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금,-,제 10 기,-8241030762,제 9 기,-9597769564,제 8 기,-8164120969,37,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,영업활동으로 인한 자산 부채의 변동,-,제 10 기,-794993918,제 9 기,66826346,제 8 기,-2178573935,38,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,조정,-,제 10 기,213908558,제 9 기,2894340835,제 8 기,3523879049,39,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 10 기,-7659945402,제 9 기,-12558936745,제 8 기,-9509426083,40,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세납부(환급),-,제 10 기,-102834550,제 9 기,36470900,제 8 기,96104240,41,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급,-,제 10 기,329700175,제 9 기,81534925,제 8 기,146876402,42,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 10 기,320989132,제 9 기,960059109,제 8 기,873047585,43,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 10 기,2600938,제 9 기,20860704,제 8 기,38951509,44,KRW,엔젠바이오
+20250321001896,11011,2024,01397903,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의 증가(감소),-,제 10 기,-15007163903,제 9 기,-6009759171,제 8 기,8550891993,45,KRW,엔젠바이오
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초의 현금 및 현금성자산,-,제 11 기,29448076822,제 10 기,74376882043,제 9 기,9766795516,2,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_CashAndCashEquivalents,당기말의 현금 및 현금성자산,-,제 11 기,20458017483,제 10 기,29448076822,제 9 기,74376882043,7,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동으로 인한 현금흐름,-,제 11 기,409754802003,제 10 기,-413799496522,제 9 기,411955004352,9,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_CashInflowFromIssuanceOfHybridBond,신종자본증권의 발행,-,제 11 기,149928480000,제 10 기,0,제 9 기,0,10,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_ProceedsFromLongTermBorrowings,장기차입금의 차입,-,제 11 기,295000000000,제 10 기,325000000000,제 9 기,479592891190,11,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_ProceedsFromPaidinCapitalIncrease,유상증자,-,제 11 기,59997120000,제 10 기,519975040000,제 9 기,0,12,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_RepaymentsOfLongTermBorrowings,장기차입금의 상환,-,제 11 기,773333333327,제 10 기,330000000000,제 9 기,70000000000,13,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_DividendsPaidClassifiedAsFinancingActivities,배당금의 지급,-,제 11 기,115001480000,제 10 기,380019400000,제 9 기,0,14,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 11 기,1092143470,제 10 기,729910736,제 9 기,628482638,15,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_ProceedsFromCurrentBorrowings,단기차입금의 증가,-,제 11 기,882000000000,제 10 기,363002397260,제 9 기,1180028027397,16,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures,사채의 발행,-,제 11 기,2527256158800,제 10 기,1138974774214,제 9 기,527990595800,17,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_RepaymentsOfBondsNotesAndDebentures,사채의 상환,-,제 11 기,1905000000000,제 10 기,1050000000000,제 9 기,665000000000,18,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_RepaymentsOfCurrentBorrowings,단기차입금의 상환,-,제 11 기,710000000000,제 10 기,1000002397260,제 9 기,1040028027397,19,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동으로 인한 현금흐름,-,제 11 기,-109298301708,제 10 기,-10698080910,제 9 기,-224513403180,21,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,임차보증금의 감소,-,제 11 기,921979200,제 10 기,103000000,제 9 기,0,22,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,임차보증금의 증가,-,제 11 기,1085736800,제 10 기,293538000,제 9 기,121409200,23,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,기타보증금의 감소,-,제 11 기,1000000,제 10 기,0,제 9 기,0,24,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,기타보증금의 증가,-,제 11 기,0,제 10 기,-1000000,제 9 기,0,25,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 처분,-,제 11 기,905000000,제 10 기,0,제 9 기,2500000000,26,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfInterestsInAssociates,종속기업 및 관계기업 투자자산의 처분,-,제 11 기,19480203000,제 10 기,390000000,제 9 기,0,27,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 11 기,145848562,제 10 기,7909090,제 9 기,0,28,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 11 기,4171460970,제 10 기,7631091000,제 9 기,11828593980,29,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_PurchaseOfInterestsInAssociates,종속기업 및 관계기업 투자자산의 취득,-,제 11 기,122800000000,제 10 기,3000000000,제 9 기,215000000000,30,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 11 기,2695134700,제 10 기,273361000,제 9 기,63400000,31,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동으로 인한 현금흐름,-,제 11 기,-309446559634,제 10 기,379568772211,제 9 기,-122831514645,33,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperations,영업에서 창출된 현금흐름,-,제 11 기,-400604041838,제 10 기,215751881101,제 9 기,-231086431144,34,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,자산·부채의 증감,-,제 11 기,-395563101256,제 10 기,223159471787,제 9 기,-240319995929,35,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInDeferredLoanOriginationFee,이연대출부대수익의 증가,-,제 11 기,38650101972,제 10 기,17237043645,제 9 기,50553168277,36,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInDeposits,제세예수금의 증가(감소),-,제 11 기,-127714042,제 10 기,137389120,제 9 기,288815805,37,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtAmortisedCostClassifiedAsOperatingActivities,상각후원가측정금융자산의 감소(증가),-,제 11 기,-492371752207,제 10 기,386340115308,제 9 기,-338008338474,38,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities,당기손익-공정가치측정금융자산의 감소(증가),-,제 11 기,69244835594,제 10 기,-177320044183,제 9 기,52500847546,39,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAccruedIncome,미수수익의 감소(증가),-,제 11 기,-9141895202,제 10 기,5426500000,제 9 기,1332550000,40,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInAdvancePayments,선급금의 감소(증가),-,제 11 기,-770522670,제 10 기,1484715520,제 9 기,-1487448530,41,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDecreaseincreaseInOtherReceivables,미수금의 감소(증가),-,제 11 기,412765911,제 10 기,-25536393,제 9 기,1157105395,42,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInDeferredLoanOriginationCost,이연대출부대비용의 증가,-,제 11 기,-825875077,제 10 기,-38789176,제 9 기,-446929983,43,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForIncreaseDecreaseInIncomeReceivedInAdvance,선수수익의 증가(감소),-,제 11 기,2468834381,제 10 기,-2649442176,제 9 기,-6072257089,44,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAccruedExpenses,미지급비용의 감소,-,제 11 기,-1058365533,제 10 기,-1359155001,제 9 기,-1203281805,45,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInAdvancesCustomers,선수금의 증가,-,제 11 기,26889256,제 10 기,52815223,제 9 기,0,46,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInOtherPayables,미지급금의 감소,-,제 11 기,-1355137750,제 10 기,-5687454482,제 9 기,852890169,47,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForIncreasedecreaseInProvisions,복구충당부채의 감소,-,제 11 기,-53900000,제 10 기,0,제 9 기,0,48,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,여신성가지급금의 증가,-,제 11 기,-50541395,제 10 기,0,제 9 기,0,49,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,현재가치할인차금의 증가(감소),-,제 11 기,57247386,제 10 기,-359161247,제 9 기,-69536050,50,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInLoansAndAdvancesToBanks,대여금의 감소(증가),-,제 11 기,-294626895,제 10 기,-74444440,제 9 기,18888872,51,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForDecreaseIncreaseInPrepaidExpenses,선급비용의 증가,-,제 11 기,-373444985,제 10 기,-5079931,제 9 기,263529938,52,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정항목,-,제 11 기,-28571523433,제 10 기,-117830794159,제 9 기,-121787611468,53,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets,신용손실충당금전입액,-,제 11 기,109654180585,제 10 기,70713686749,제 9 기,20683972089,54,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForDepreciationLeasedAssets,임차보증금선급리스료상각,-,제 11 기,31454166,제 10 기,5789572,제 9 기,1189451,55,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForGainLossOnDisposalOfInvestmentsInAssociates,관계기업주식처분손실,-,제 11 기,-263359500,제 10 기,0,제 9 기,0,56,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForGainOnForeignExchangeTranslations,외화환산이익,-,제 11 기,0,제 10 기,311812532,제 9 기,0,57,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForGainsOnChangeInFairValueOfDerivatives,파생금융상품평가이익,-,제 11 기,5305562924,제 10 기,0,제 9 기,0,58,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfIntangibleAssets,무형자산처분이익,-,제 11 기,658470000,제 10 기,0,제 9 기,1965809010,59,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForGainsOnDisposalsOfPropertyPlantAndEquipment,유형자산처분이익,-,제 11 기,16334516,제 10 기,6201837,제 9 기,0,60,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForImpairmentLossesOfIntangibleAssets,무형자산손상차손,-,제 11 기,154096971,제 10 기,0,제 9 기,1175277313,61,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForLossesOnChangeInFairValueOfDerivatives,파생금융상품평가손실,-,제 11 기,0,제 10 기,311812532,제 9 기,0,62,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForLossesOnForeignExchangeTranslations,외환환산손실,-,제 11 기,5305562924,제 10 기,0,제 9 기,0,63,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_AdjustmentsForReversalsOfImpairmentLossesOnIntangibleAssets,무형자산손상차손환입,-,제 11 기,146698789,제 10 기,731666666,제 9 기,51863333,64,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_GainsOnValuationOfFairValueFinancialAsset,당기손익-공정가치측정금융자산평가이익,-,제 11 기,3431972221,제 10 기,5608667374,제 9 기,2453567405,65,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,dart_LossesOnValuationOfFairValueFinancialAsset,당기손익-공정가치측정금융자산평가손실,-,제 11 기,4789306663,제 10 기,3526360930,제 9 기,10499377158,66,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,기타충당부채전입액,-,제 11 기,-139879498,제 10 기,-877363814,제 9 기,-2308984042,67,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,리스사용권자산처분이익,-,제 11 기,-44856,제 10 기,0,제 9 기,0,68,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,리스사용권자산처분손실,-,제 11 기,0,제 10 기,3760737,제 9 기,485223,69,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,지급보증수수료,-,제 11 기,-232090988,제 10 기,-665082124,제 9 기,-1522014851,70,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,지급보증수수료비용,-,제 11 기,972982624,제 10 기,1245527626,제 9 기,1445982711,71,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,-표준계정코드 미사용-,복구충당부채전입액,-,제 11 기,5130606,제 10 기,1176368,제 9 기,965209,72,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForAmortisationExpense,무형자산상각비,-,제 11 기,3552922615,제 10 기,2825960058,제 9 기,650078165,73,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForDepreciationExpense,감가상각비,-,제 11 기,1560389304,제 10 기,1021862869,제 9 기,1141454645,74,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForDividendIncome,배당금수익,-,제 11 기,4908361790,제 10 기,4024039456,제 9 기,2322576972,75,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForIncomeTaxExpense,법인세비용,-,제 11 기,8027900775,제 10 기,22971041420,제 9 기,45157503188,76,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForInterestExpense,이자비용,-,제 11 기,177745990092,제 10 기,131335423578,제 9 기,116485161851,77,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_AdjustmentsForInterestIncome,이자수익,-,제 11 기,325795384676,제 10 기,339568362795,제 9 기,308404242858,78,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익,-,제 11 기,23530582851,제 10 기,110423203473,제 9 기,131021176253,79,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금의 수령,-,제 11 기,4908361790,제 10 기,4024039456,제 9 기,2322576972,80,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세의 납부,-,제 11 기,24557925269,제 10 기,21435531096,제 9 기,53307575375,81,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자의 지급,-,제 11 기,165848054742,제 10 기,105772421496,제 9 기,105671483224,82,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자의 수취,-,제 11 기,276655100425,제 10 기,287000804246,제 9 기,264911398126,83,KRW,한국투자캐피탈
+20250327000810,11011,2024,01064272,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금 및 현금성자산의 감소(Ⅰ+Ⅱ+Ⅲ),-,제 11 기,-8990059339,제 10 기,-44928805221,제 9 기,64610086527,84,KRW,한국투자캐피탈
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_CashAndCashEquivalentsAtBeginningOfPeriodCf,기초현금및현금성자산,-,제 43 기,3771144667,제 42 기,7664247267,제 41 기,1933240498,2,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_CashAndCashEquivalentsAtEndOfPeriodCf,기말현금및현금성자산,-,제 43 기,5632782775,제 42 기,3771144667,제 41 기,7664247267,3,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInFinancingActivities,재무활동현금흐름,-,제 43 기,-249693266,제 42 기,-735329088,제 41 기,-11972029124,8,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_PaymentsOfFinanceLeaseLiabilitiesClassifiedAsFinancingActivities,리스부채의 상환,-,제 43 기,249693266,제 42 기,402329088,제 41 기,197990762,9,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_ProceedsFromShortTermBorrowings,단기차입금의 차입,-,제 43 기,,제 42 기,250000000,제 41 기,2509867708,10,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_RepaymentsOfBondWithWarrant,신주인수권부사채의 상환,-,제 43 기,,제 42 기,,제 41 기,9411338,11,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_RepaymentsOfConvertibleBonds,전환사채의 상환,-,제 43 기,,제 42 기,,제 41 기,2097627024,12,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_RepaymentsOfShortTermBorrowings,단기차입금의 상환,-,제 43 기,,제 42 기,583000000,제 41 기,12176867708,13,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInInvestingActivities,투자활동순현금흐름,-,제 43 기,-962198933,제 42 기,-3056719149,제 41 기,21317209381,14,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_DecreaseInGuaranteeDeposits,보증금의 감소,-,제 43 기,120000000,제 42 기,,제 41 기,,15,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_DecreaseInLoans,장단기대여금의 감소,-,제 43 기,480000000,제 42 기,43333330,제 41 기,,16,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_IncreaseInGuaranteeDeposits,보증금의 증가,-,제 43 기,,제 42 기,,제 41 기,413860000,17,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_IncreaseInLoans,장단기대여금의 증가,-,제 43 기,1120000000,제 42 기,200000000,제 41 기,,18,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_ProceedsFromSalesOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 처분,-,제 43 기,1520000000,제 42 기,,제 41 기,,19,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_ProceedsFromSalesOfOtherFinancialAssets,기타금융자산의 처분,-,제 43 기,9558161870,제 42 기,3280448146,제 41 기,,20,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_PurchaseOfInvestmentsInSubsidiaries,종속기업에 대한 투자자산의 취득,-,제 43 기,200000000,제 42 기,213672000,제 41 기,213672000,21,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_PurchaseOfOtherFinancialAssets,기타금융자산의 취득,-,제 43 기,9422817033,제 42 기,5043092887,제 41 기,13553896,22,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities,물적분할로 인한 현금흐름,-,제 43 기,,제 42 기,-304504259,제 41 기,,23,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 처분,-,제 43 기,3315200,제 42 기,8624000,제 41 기,26076876697,24,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities,무형자산의 취득,-,제 43 기,,제 42 기,25039200,제 41 기,500000000,25,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities,유형자산의 취득,-,제 43 기,1900858970,제 42 기,602816279,제 41 기,3618581420,26,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_CashFlowsFromUsedInOperatingActivities,영업활동현금흐름,-,제 43 기,3057323279,제 42 기,-101054363,제 41 기,-3613635951,27,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities,운전자본변동,-,제 43 기,80567582,제 42 기,-4515305935,제 41 기,-795038524,28,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_AdjustmentsForReconcileProfitLoss,손익조정사항,-,제 43 기,968487543,제 42 기,674593376,제 41 기,-3032359194,29,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_DividendsReceivedClassifiedAsOperatingActivities,배당금수취,-,제 43 기,19126038,제 42 기,,제 41 기,,30,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities,법인세환급(납부),-,제 43 기,-3176560,제 42 기,-12452880,제 41 기,28068400,31,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_InterestPaidClassifiedAsOperatingActivities,이자지급(영업),-,제 43 기,,제 42 기,14184456,제 41 기,900547875,32,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_InterestReceivedClassifiedAsOperatingActivities,이자수취,-,제 43 기,106581903,제 42 기,113856825,제 41 기,124332841,33,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_ProfitLoss,당기순이익(손실),-,제 43 기,1879383653,제 42 기,3627532947,제 41 기,1018045201,34,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents,현금및현금성자산에 대한 환율변동효과,-,제 43 기,16207028,제 42 기,,제 41 기,-537537,35,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalents,현금및현금성자산의순증가(감소),-,제 43 기,1861638108,제 42 기,-3893102600,제 41 기,5731006769,36,KRW,유네코
+20250331000237,11011,2024,00127699,CF,현금흐름표,ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges,환율변동효과 반영전 현금및현금성자산의 순증가(감소),-,제 43 기,1845431080,제 42 기,-3893102600,제 41 기,5731544306,37,KRW,유네코
